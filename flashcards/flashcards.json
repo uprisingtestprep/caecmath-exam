@@ -1,0 +1,3002 @@
+[
+  {
+    "id": 1,
+    "domain": "number_sense_and_operations",
+    "front": "What is a mixed number, and how do you write 2 3/4 as an improper fraction?",
+    "back": "A mixed number has a whole part and a fraction part, like 2 3/4. Multiply the whole number by the denominator (2 x 4 = 8), add the numerator (8 + 3 = 11), and keep the same denominator, so the improper fraction is 11/4."
+  },
+  {
+    "id": 2,
+    "domain": "patterns_and_relations",
+    "front": "The pattern is 5, 9, 13, 17. What is the next term, and what is the rule?",
+    "back": "The next term is 21. The rule is add 4 each time (17 + 4 = 21). Each term grows by the same amount, so it is an arithmetic pattern."
+  },
+  {
+    "id": 3,
+    "domain": "geometry_and_measurement",
+    "front": "A rectangle is 8 cm long and 5 cm wide. What is its perimeter?",
+    "back": "The perimeter is 26 cm. Add the length and width and double it: 2 x (8 + 5) = 2 x 13 = 26 cm. The perimeter is the total distance around the shape."
+  },
+  {
+    "id": 4,
+    "domain": "data_management_and_probability",
+    "front": "The numbers are 10, 20, 30, and 40. What is the mean?",
+    "back": "The mean, or average, is 25. Add all the numbers (10 + 20 + 30 + 40 = 100), then divide by how many numbers there are (100 divided by 4 = 25)."
+  },
+  {
+    "id": 5,
+    "domain": "number_sense_and_operations",
+    "front": "Simplify the fraction 12/18 to its lowest terms.",
+    "back": "The simplified fraction is 2/3. Divide the numerator (top number) and denominator (bottom number) by the greatest common factor, which is 6: 12 divided by 6 = 2, and 18 divided by 6 = 3."
+  },
+  {
+    "id": 6,
+    "domain": "patterns_and_relations",
+    "front": "The pattern is 2, 5, 8, 11. What is the 10th term?",
+    "back": "The 10th term is 29. The rule is 3n minus 1, where n is the term position. For the 10th term, 3 x 10 = 30, then 30 minus 1 = 29."
+  },
+  {
+    "id": 7,
+    "domain": "geometry_and_measurement",
+    "front": "A triangle has a base of 10 cm and a height of 6 cm. What is its area?",
+    "back": "The area is 30 square cm. Use the formula area = one half x base x height: 0.5 x 10 x 6 = 30. The base and height must meet at a right angle."
+  },
+  {
+    "id": 8,
+    "domain": "data_management_and_probability",
+    "front": "The numbers are 3, 7, 2, 9, and 5. What is the median?",
+    "back": "The median is 5. Put the numbers in order first: 2, 3, 5, 7, 9. With an odd count, the median is the middle number, which is 5."
+  },
+  {
+    "id": 9,
+    "domain": "number_sense_and_operations",
+    "front": "Add one quarter (1/4) and one sixth (1/6). Show the steps.",
+    "back": "The sum is 5/12. Find a common denominator of 12, then rewrite each fraction: 1/4 = 3/12 and 1/6 = 2/12. Add the numerators: 3 + 2 = 5, so the answer is 5/12."
+  },
+  {
+    "id": 10,
+    "domain": "patterns_and_relations",
+    "front": "Simplify the ratio 12 to 18. What is the simplest ratio?",
+    "back": "The simplest ratio is 2 to 3, written as 2:3. Divide both numbers by the greatest common factor, which is 6: 12 divided by 6 = 2, and 18 divided by 6 = 3."
+  },
+  {
+    "id": 11,
+    "domain": "geometry_and_measurement",
+    "front": "A rectangle is 12 m long and 7 m wide. What is its area?",
+    "back": "The area is 84 square metres. Multiply the length by the width: 12 x 7 = 84. Area measures the space inside a flat shape."
+  },
+  {
+    "id": 12,
+    "domain": "data_management_and_probability",
+    "front": "The numbers are 2, 3, 3, 4, and 5. What is the mode?",
+    "back": "The mode is 3. The mode is the value that appears most often in a list, and 3 appears twice while the others appear once."
+  },
+  {
+    "id": 13,
+    "domain": "number_sense_and_operations",
+    "front": "Write three fifths (3/5) as a decimal.",
+    "back": "The decimal is 0.6. Divide the numerator by the denominator: 3 divided by 5 = 0.6. A fraction bar means divide the top number by the bottom number."
+  },
+  {
+    "id": 14,
+    "domain": "patterns_and_relations",
+    "front": "A car travels 240 km in 3 hours. What is its average speed?",
+    "back": "The average speed is 80 km per hour. Divide the distance by the time: 240 divided by 3 = 80. Speed is the distance travelled in one unit of time."
+  },
+  {
+    "id": 15,
+    "domain": "geometry_and_measurement",
+    "front": "A circle has a radius of 7 cm. Using pi as 22/7, what is its circumference?",
+    "back": "The circumference is 44 cm. Use the formula circumference = 2 x pi x radius: 2 x (22/7) x 7 = 2 x 22 = 44. Circumference is the distance around the circle."
+  },
+  {
+    "id": 16,
+    "domain": "data_management_and_probability",
+    "front": "The numbers are 12, 25, 8, and 30. What is the range?",
+    "back": "The range is 22. Subtract the smallest value from the largest: 30 minus 8 = 22. The range shows how spread out the data is."
+  },
+  {
+    "id": 17,
+    "domain": "number_sense_and_operations",
+    "front": "Write 45% as a decimal.",
+    "back": "The decimal is 0.45. To convert a percent to a decimal, divide by 100, which means moving the decimal point two places left: 45% becomes 0.45."
+  },
+  {
+    "id": 18,
+    "domain": "patterns_and_relations",
+    "front": "Solve for x: x divided by 6 = 10 divided by 15.",
+    "back": "x equals 4. Cross multiply the two fractions: 15 times x = 6 times 10, so 15x = 60. Divide both sides by 15 to get x = 4."
+  },
+  {
+    "id": 19,
+    "domain": "geometry_and_measurement",
+    "front": "A circle has a radius of 7 cm. Using pi as 22/7, what is its area?",
+    "back": "The area is 154 square cm. Use the formula area = pi x radius squared: (22/7) x 7 x 7. The 7s cancel with 7, leaving 22 x 7 = 154."
+  },
+  {
+    "id": 20,
+    "domain": "data_management_and_probability",
+    "front": "The values are 10, 12, 14, and 16. How does adding a very large outlier, like 100, affect the mean versus the median?",
+    "back": "The mean rises a lot while the median barely moves. The five values 10, 12, 14, 16, 100 give a mean of 152 divided by 5 = 30.4, but the median stays 14. Outliers pull the mean, so the median is more reliable when a value is extreme."
+  },
+  {
+    "id": 21,
+    "domain": "number_sense_and_operations",
+    "front": "What is 25% of 80?",
+    "back": "The answer is 20. Convert 25% to a decimal (0.25), then multiply by 80: 0.25 x 80 = 20. You can also think of 25% as one quarter, and one quarter of 80 is 20."
+  },
+  {
+    "id": 22,
+    "domain": "patterns_and_relations",
+    "front": "Solve for x: x + 9 + 6 = 30.",
+    "back": "x equals 15. Combine the numbers on the left: 9 + 6 = 15, so the equation is x + 15 = 30. Subtract 15 from both sides to get x = 15."
+  },
+  {
+    "id": 23,
+    "domain": "geometry_and_measurement",
+    "front": "A right triangle has legs of 3 cm and 4 cm. How long is the hypotenuse?",
+    "back": "The hypotenuse is 5 cm. Use the Pythagorean theorem: leg squared plus leg squared = hypotenuse squared. 3 squared = 9 and 4 squared = 16, and 9 + 16 = 25. The square root of 25 is 5."
+  },
+  {
+    "id": 24,
+    "domain": "data_management_and_probability",
+    "front": "A fair six-sided die is rolled once. What is the probability of rolling a 4?",
+    "back": "The probability is 1/6. There is one favourable outcome (the 4) out of six equally likely outcomes. Probability = favourable outcomes divided by total possible outcomes."
+  },
+  {
+    "id": 25,
+    "domain": "number_sense_and_operations",
+    "front": "Evaluate 6 + 2 x 3 using the order of operations.",
+    "back": "The answer is 12. Following BEDMAS, do multiplication before addition: 2 x 3 = 6, then 6 + 6 = 12. If you simply added left to right you would get a wrong answer of 24."
+  },
+  {
+    "id": 26,
+    "domain": "patterns_and_relations",
+    "front": "Solve for x: 4x + 7 = 27.",
+    "back": "x equals 5. Subtract 7 from both sides to get 4x = 20. Then divide both sides by 4 to get x = 5."
+  },
+  {
+    "id": 27,
+    "domain": "geometry_and_measurement",
+    "front": "A box is 4 cm long, 3 cm wide, and 2 cm tall. What is its surface area?",
+    "back": "The surface area is 52 square cm. The three face pairs have areas 4 x 3 = 12, 4 x 2 = 8, and 3 x 2 = 6. Add them (12 + 8 + 6 = 26) and double for both sides: 2 x 26 = 52."
+  },
+  {
+    "id": 28,
+    "domain": "data_management_and_probability",
+    "front": "A bag has 3 red marbles and 7 blue marbles. What is the probability of picking a red marble?",
+    "back": "The probability is 3/10. There are 3 red marbles out of 10 total marbles (3 + 7 = 10). Probability = favourable outcomes divided by total outcomes."
+  },
+  {
+    "id": 29,
+    "domain": "number_sense_and_operations",
+    "front": "Add the integers 7 and negative 12. What is the result?",
+    "back": "The result is negative 5, written as -5. Starting at 7 and moving 12 steps down on a number line lands at -5. Adding a negative is the same as subtracting that value: 7 minus 12 = -5."
+  },
+  {
+    "id": 30,
+    "domain": "patterns_and_relations",
+    "front": "The formula is distance = speed x time. A trip of 120 km takes 4 hours. What is the speed?",
+    "back": "The speed is 30 km per hour. Rearrange the formula to speed = distance divided by time, so speed = 120 divided by 4 = 30. Rearranging a formula means isolating the letter you want."
+  },
+  {
+    "id": 31,
+    "domain": "geometry_and_measurement",
+    "front": "A rectangular prism is 5 cm long, 4 cm wide, and 3 cm tall. What is its volume?",
+    "back": "The volume is 60 cubic cm. Multiply length by width by height: 5 x 4 x 3 = 60. Volume measures how much space an object takes up."
+  },
+  {
+    "id": 32,
+    "domain": "data_management_and_probability",
+    "front": "A coin is flipped twice. What is the probability of getting heads both times?",
+    "back": "The probability is 1/4. The flips are independent, so multiply the separate chances: 1/2 x 1/2 = 1/4. Independent events do not affect each other."
+  },
+  {
+    "id": 33,
+    "domain": "number_sense_and_operations",
+    "front": "A jacket costs $60 and is on sale for 20% off. What is the sale price?",
+    "back": "The sale price is $48. The discount is 20% of $60, or 0.20 x 60 = $12. Subtract the discount from the original price: $60 minus $12 = $48."
+  },
+  {
+    "id": 34,
+    "domain": "patterns_and_relations",
+    "front": "One store sells 3 items for $6 and another sells 5 of the same item for $12. Which is the better buy?",
+    "back": "The 3 for $6 deal is better. Find the price per item: $6 divided by 3 = $2 each, while $12 divided by 5 = $2.40 each. The lower unit price is the better buy."
+  },
+  {
+    "id": 35,
+    "domain": "geometry_and_measurement",
+    "front": "Convert 3.5 kilometres to metres.",
+    "back": "The answer is 3500 metres. One kilometre equals 1000 metres, so multiply 3.5 by 1000: 3.5 x 1000 = 3500. Moving from a larger unit to a smaller one means multiplying."
+  },
+  {
+    "id": 36,
+    "domain": "data_management_and_probability",
+    "front": "A fair six-sided die is rolled once. What is the probability of rolling a 1 or a 6?",
+    "back": "The probability is 2/6, which simplifies to 1/3. These events are mutually exclusive because a single roll cannot be both 1 and 6, so add the separate chances: 1/6 + 1/6 = 2/6 = 1/3."
+  },
+  {
+    "id": 37,
+    "domain": "number_sense_and_operations",
+    "front": "A meal costs $50 before tax. Sales tax is 13%. What is the total cost?",
+    "back": "The total is $56.50. The tax is 13% of $50, or 0.13 x 50 = $6.50. Add the tax to the original price: $50 + $6.50 = $56.50."
+  },
+  {
+    "id": 38,
+    "domain": "patterns_and_relations",
+    "front": "Solve for x: 2/5 = x/20.",
+    "back": "x equals 8. Cross multiply: 5 times x = 2 times 20, so 5x = 40. Divide both sides by 5 to get x = 8."
+  },
+  {
+    "id": 39,
+    "domain": "geometry_and_measurement",
+    "front": "A photo is enlarged using a scale factor of 3. If the original width is 4 cm, what is the new width?",
+    "back": "The new width is 12 cm. Multiply the original measurement by the scale factor: 4 x 3 = 12. A scale factor greater than 1 makes the shape larger, and every side is multiplied by the same factor."
+  },
+  {
+    "id": 40,
+    "domain": "data_management_and_probability",
+    "front": "A circle graph is divided into 5 equal slices. What percent is one slice?",
+    "back": "One slice is 20%. The whole circle graph represents 100%, and 100% divided by 5 = 20%. Each equal slice is one fifth of the whole."
+  },
+  {
+    "id": 41,
+    "domain": "number_sense_and_operations",
+    "front": "What simple interest is earned on $200 at 4% per year for 3 years?",
+    "back": "The interest is $24. Use interest = principal x rate x time: 200 x 0.04 x 3 = 24. The principal is the starting amount, and the rate is written as a decimal."
+  },
+  {
+    "id": 42,
+    "domain": "patterns_and_relations",
+    "front": "The pattern is 50, 42, 34, 26. What is the next term?",
+    "back": "The next term is 18. The rule is subtract 8 each time: 26 minus 8 = 18. The pattern decreases by the same amount each step."
+  },
+  {
+    "id": 43,
+    "domain": "geometry_and_measurement",
+    "front": "A cylinder has a radius of 3 cm and a height of 10 cm. Using pi as 3.14, what is its volume?",
+    "back": "The volume is 282.6 cubic cm. Use volume = pi x radius squared x height: 3.14 x 3 x 3 x 10 = 3.14 x 90 = 282.6. A cylinder's volume is the area of its circular end times its height."
+  },
+  {
+    "id": 44,
+    "domain": "data_management_and_probability",
+    "front": "A bar graph shows four bars with values 5, 10, 15, and 20. Which value is on the tallest bar, and what is the total of all four?",
+    "back": "The tallest bar is 20, and the total is 50. The tallest bar shows the greatest value. Add the four values to find the total: 5 + 10 + 15 + 20 = 50."
+  },
+  {
+    "id": 45,
+    "domain": "number_sense_and_operations",
+    "front": "A salesperson earns a 5% commission on a $600 sale. How much commission is earned?",
+    "back": "The commission is $30. Multiply the sale amount by the commission percent written as a decimal: 0.05 x 600 = 30. Commission is a percent of the sale paid to the salesperson."
+  },
+  {
+    "id": 46,
+    "domain": "patterns_and_relations",
+    "front": "Twice a number plus 7 equals 21. What is the number?",
+    "back": "The number is 7. Set up the equation 2x + 7 = 21. Subtract 7 from both sides to get 2x = 14, then divide both sides by 2 to get x = 7. Use a letter like x to stand for the unknown number."
+  },
+  {
+    "id": 47,
+    "domain": "geometry_and_measurement",
+    "front": "A recipe uses cups. Given that 1 cup = 250 mL, how many millilitres are in 3 cups?",
+    "back": "The answer is 750 mL. Multiply the number of cups by the conversion rate: 3 x 250 = 750. Because the conversion is provided, multiply the starting amount by the rate."
+  },
+  {
+    "id": 48,
+    "domain": "data_management_and_probability",
+    "front": "The numbers are 4, 7, 8, and 11. What is the median?",
+    "back": "The median is 7.5. The list already has an even number of values, so find the two middle numbers, 7 and 8, and average them: (7 + 8) divided by 2 = 7.5."
+  },
+  {
+    "id": 49,
+    "domain": "number_sense_and_operations",
+    "front": "What do 2 to the power of 3 (2^3) and 5 squared (5^2) equal?",
+    "back": "2^3 = 8 and 5^2 = 25. The exponent tells you how many times to multiply the base by itself: 2 x 2 x 2 = 8, and 5 x 5 = 25. Squaring means multiplying a number by itself once."
+  },
+  {
+    "id": 50,
+    "domain": "patterns_and_relations",
+    "front": "The pattern is 1, 3, 5, 7. What is the next term?",
+    "back": "The next term is 9. The rule is add 2 each time: 7 + 2 = 9. This is a list of odd numbers, and each term is two more than the one before it."
+  },
+  {
+    "id": 51,
+    "domain": "geometry_and_measurement",
+    "front": "What is the perimeter of a rectangle that is 6 m long and 4 m wide?",
+    "back": "20 m. Perimeter is the total distance around the outside, so add all four sides: 6 + 4 + 6 + 4 = 20. You can also use 2 × (length + width) = 2 × (6 + 4) = 20."
+  },
+  {
+    "id": 52,
+    "domain": "data_management_and_probability",
+    "front": "What is the mean of the numbers 4, 7, 8, and 9?",
+    "back": "7. The mean is the average. Add the numbers: 4 + 7 + 8 + 9 = 28, then divide by how many numbers there are, 4: 28 ÷ 4 = 7."
+  },
+  {
+    "id": 53,
+    "domain": "number_sense_and_operations",
+    "front": "What is 2/7 + 3/7?",
+    "back": "5/7. When the bottom numbers are the same, add only the top numbers: 2 + 3 = 5, and keep the bottom number 7. The bottom number is how many equal parts, and it stays the same here."
+  },
+  {
+    "id": 54,
+    "domain": "patterns_and_relations",
+    "front": "What is the next number in the pattern 4, 7, 10, 13, ...?",
+    "back": "16. Each term goes up by 3, so 13 + 3 = 16. In this arithmetic pattern you add the same amount at every step."
+  },
+  {
+    "id": 55,
+    "domain": "geometry_and_measurement",
+    "front": "What is the area of a rectangle that is 6 cm long and 4 cm wide?",
+    "back": "24 square cm. Area is the space inside a shape and is measured in square units. Multiply length × width: 6 × 4 = 24."
+  },
+  {
+    "id": 56,
+    "domain": "data_management_and_probability",
+    "front": "What is the median of the numbers 3, 8, 5, 9, and 2?",
+    "back": "5. The median is the middle value. Put the numbers in order: 2, 3, 5, 8, 9. With an odd count, the median is the one exactly in the middle."
+  },
+  {
+    "id": 57,
+    "domain": "number_sense_and_operations",
+    "front": "Write 35% as a decimal.",
+    "back": "0.35. Percent means out of 100, so divide 35 by 100: 35 ÷ 100 = 0.35. You can also move the decimal point two places to the left."
+  },
+  {
+    "id": 58,
+    "domain": "patterns_and_relations",
+    "front": "Write the ratio of 2 cats to 6 dogs in simplest form.",
+    "back": "1 to 3, written 1:3. A ratio compares quantities of the same kind. Divide both parts by the greatest common factor, 2: 2 ÷ 2 = 1 and 6 ÷ 2 = 3."
+  },
+  {
+    "id": 59,
+    "domain": "geometry_and_measurement",
+    "front": "What is the area of a triangle with a base of 8 m and a height of 5 m?",
+    "back": "20 square m. A triangle is half of a rectangle with the same base and height. Area = (base × height) ÷ 2 = (8 × 5) ÷ 2 = 40 ÷ 2 = 20."
+  },
+  {
+    "id": 60,
+    "domain": "data_management_and_probability",
+    "front": "What is the mode of the numbers 2, 5, 5, 7, and 9?",
+    "back": "5. The mode is the value that appears most often. The number 5 shows up twice, more than any other."
+  },
+  {
+    "id": 61,
+    "domain": "number_sense_and_operations",
+    "front": "What is 8 + 2 × 3?",
+    "back": "14. Do the multiplication before the addition: 2 × 3 = 6, then 8 + 6 = 14. BEDMAS means brackets, exponents, division and multiplication, then addition and subtraction."
+  },
+  {
+    "id": 62,
+    "domain": "patterns_and_relations",
+    "front": "Solve for x: 3/4 = 9/x.",
+    "back": "x = 12. Cross multiply: 3 × x = 4 × 9, so 3x = 36. Then divide both sides by 3: x = 36 ÷ 3 = 12."
+  },
+  {
+    "id": 63,
+    "domain": "geometry_and_measurement",
+    "front": "What is the circumference of a circle with a diameter of 10 cm? Use pi = 3.14.",
+    "back": "31.4 cm. Circumference is the distance around the circle. Multiply pi by the diameter: 3.14 × 10 = 31.4."
+  },
+  {
+    "id": 64,
+    "domain": "data_management_and_probability",
+    "front": "What is the range of the numbers 3, 9, 6, and 1?",
+    "back": "8. The range is the spread from lowest to highest. Subtract the smallest from the biggest: 9 - 1 = 8."
+  },
+  {
+    "id": 65,
+    "domain": "number_sense_and_operations",
+    "front": "What is 15% of $80?",
+    "back": "$12. Change 15% into 0.15 and multiply: 0.15 × 80 = 12. You could also find 10% ($8), then add 5% ($4) to get $12."
+  },
+  {
+    "id": 66,
+    "domain": "patterns_and_relations",
+    "front": "A 5 kg bag of rice costs $15. What is the unit price per kilogram?",
+    "back": "$3 per kg. A unit rate is the cost for one unit. Divide the total cost by the number of kilograms: 15 ÷ 5 = 3."
+  },
+  {
+    "id": 67,
+    "domain": "geometry_and_measurement",
+    "front": "What is the area of a circle with a radius of 3 cm? Use pi = 3.14.",
+    "back": "28.26 square cm. Area is the space inside the circle. Multiply pi by the radius squared: 3.14 × 3 × 3 = 3.14 × 9 = 28.26."
+  },
+  {
+    "id": 68,
+    "domain": "data_management_and_probability",
+    "front": "Most employees earn near $40,000, but one person earns $120,000. Which average is pulled upward, the mean or the median?",
+    "back": "The mean. That $120,000 is an outlier, a value far from the rest, and it raises the average a lot. The median stays near the middle because it only depends on the middle value."
+  },
+  {
+    "id": 69,
+    "domain": "number_sense_and_operations",
+    "front": "A jacket costs $40 and sales tax is 13%. What is the total price?",
+    "back": "$45.20. Find the tax first: 0.13 × 40 = $5.20. Then add it to the price: 40 + 5.20 = 45.20."
+  },
+  {
+    "id": 70,
+    "domain": "patterns_and_relations",
+    "front": "A car travels 240 km in 3 hours. What is its average speed?",
+    "back": "80 km/h. Average speed is the distance travelled in one hour, so use distance ÷ time: 240 ÷ 3 = 80."
+  },
+  {
+    "id": 71,
+    "domain": "geometry_and_measurement",
+    "front": "A right triangle has legs of 3 cm and 4 cm. How long is the hypotenuse?",
+    "back": "5 cm. The hypotenuse is the side opposite the right angle. Use a squared + b squared = c squared: 9 + 16 = 25, and the square root of 25 is 5."
+  },
+  {
+    "id": 72,
+    "domain": "data_management_and_probability",
+    "front": "In a bar graph, what does the height of each bar tell you?",
+    "back": "It tells the value or amount for that category. Compare the bar heights to see which category has the most or the least. A bar graph is used to compare amounts across different groups."
+  },
+  {
+    "id": 73,
+    "domain": "number_sense_and_operations",
+    "front": "A $120 bike is marked 25% off. What is the sale price?",
+    "back": "$90. The discount is 0.25 × 120 = $30. Subtract that from the original price: 120 - 30 = 90."
+  },
+  {
+    "id": 74,
+    "domain": "patterns_and_relations",
+    "front": "A map scale says 1 cm = 5 km. Two towns are 6 cm apart on the map. How far apart are they in real life?",
+    "back": "30 km. A scale shows the link between the drawing and real life. Multiply the map distance by the scale: 6 × 5 = 30."
+  },
+  {
+    "id": 75,
+    "domain": "geometry_and_measurement",
+    "front": "What is the volume of a box that is 5 cm long, 4 cm wide, and 3 cm tall?",
+    "back": "60 cubic cm. Volume is the space inside a 3D shape and is measured in cubic units. Multiply length × width × height: 5 × 4 × 3 = 60."
+  },
+  {
+    "id": 76,
+    "domain": "data_management_and_probability",
+    "front": "A line graph shows a temperature going from 10 up to 20 degrees over 3 hours. What does the rising line show?",
+    "back": "The temperature increased over time. A line graph shows how a value changes across a period, and a line moving upward means the value is getting larger."
+  },
+  {
+    "id": 77,
+    "domain": "number_sense_and_operations",
+    "front": "Write 2 and 3/4 as an improper fraction.",
+    "back": "11/4. Multiply the whole number by the bottom number: 2 × 4 = 8. Add the top number: 8 + 3 = 11. Keep the bottom number 4, so the answer is 11/4."
+  },
+  {
+    "id": 78,
+    "domain": "patterns_and_relations",
+    "front": "The perimeter of a rectangle is P = 2 × (length + width). If length is 7 and width is 3, what is P?",
+    "back": "20. To solve a formula, replace each letter with its number: P = 2 × (7 + 3) = 2 × 10 = 20. Do the part in brackets first."
+  },
+  {
+    "id": 79,
+    "domain": "geometry_and_measurement",
+    "front": "What is the volume of a cylinder with a radius of 2 cm and a height of 10 cm? Use pi = 3.14.",
+    "back": "125.6 cubic cm. Volume of a cylinder = pi × radius squared × height = 3.14 × 2 × 2 × 10 = 3.14 × 4 × 10 = 3.14 × 40 = 125.6."
+  },
+  {
+    "id": 80,
+    "domain": "data_management_and_probability",
+    "front": "A circle graph is split into slices that add to 100%. One slice is 50%. How much of the whole is that slice?",
+    "back": "Half. The whole circle is 100%, so a 50% slice covers half of it. All the slices together always add to 100%."
+  },
+  {
+    "id": 81,
+    "domain": "number_sense_and_operations",
+    "front": "What is 3.25 + 1.4?",
+    "back": "4.65. Line up the decimal points, writing 1.4 as 1.40, then add: 3.25 + 1.40 = 4.65. Always line up the decimal points before adding or subtracting decimals."
+  },
+  {
+    "id": 82,
+    "domain": "patterns_and_relations",
+    "front": "A recipe uses 2 cups of flour for 12 muffins. How many cups are needed for 30 muffins?",
+    "back": "5 cups. Set up a proportion: 2/12 = x/30. Cross multiply: 12x = 60, then divide: x = 5. Keep the same units on top and on the bottom."
+  },
+  {
+    "id": 83,
+    "domain": "geometry_and_measurement",
+    "front": "What is the surface area of a box that is 2 m long, 3 m wide, and 4 m tall?",
+    "back": "52 square m. Surface area is the total area of all six faces. Add the three different face areas and double: 2 × (2×3 + 3×4 + 2×4) = 2 × (6 + 12 + 8) = 2 × 26 = 52."
+  },
+  {
+    "id": 84,
+    "domain": "data_management_and_probability",
+    "front": "A scatterplot shows points that rise as you move to the right and up. What does that pattern show?",
+    "back": "A positive relationship. As one value increases, the other value tends to increase too. A scatterplot shows whether two variables are related and in which direction."
+  },
+  {
+    "id": 85,
+    "domain": "number_sense_and_operations",
+    "front": "$1,000 is invested at 5% per year for 2 years. What is the total interest earned?",
+    "back": "$100. Interest = principal × rate × time = 1,000 × 0.05 × 2 = 100. The rate must be written as a decimal, so 5% becomes 0.05."
+  },
+  {
+    "id": 86,
+    "domain": "patterns_and_relations",
+    "front": "The pattern 20, 16, 12, 8 goes down each time. What is the rule?",
+    "back": "Subtract 4 each time: 20 - 4 = 16, 16 - 4 = 12, 12 - 4 = 8. To find the rule, check the change from one term to the next."
+  },
+  {
+    "id": 87,
+    "domain": "geometry_and_measurement",
+    "front": "A shape is enlarged by a scale factor of 3. A side that was 4 cm long is now how long?",
+    "back": "12 cm. Multiply the original length by the scale factor: 4 × 3 = 12. A scale factor greater than 1 makes the figure larger, and a scale factor less than 1 makes it smaller."
+  },
+  {
+    "id": 88,
+    "domain": "data_management_and_probability",
+    "front": "A bag has 3 red and 5 blue marbles. What is the probability of picking a red marble?",
+    "back": "3 out of 8, written 3/8. Probability is favourable outcomes ÷ total outcomes. The total is 3 + 5 = 8, and there are 3 red marbles."
+  },
+  {
+    "id": 89,
+    "domain": "number_sense_and_operations",
+    "front": "What is -4 + 9?",
+    "back": "5. Start at -4 and move 9 steps toward the positive numbers, ending at 5. Because 9 is larger than 4, the answer is positive: 9 - 4 = 5."
+  },
+  {
+    "id": 90,
+    "domain": "patterns_and_relations",
+    "front": "If 3 books cost $18, how much do 6 books cost?",
+    "back": "$36. Double the books and the cost together: 3 to 6 is times 2, so 18 × 2 = 36. Or set up 3/18 = 6/x and cross multiply to get x = 36."
+  },
+  {
+    "id": 91,
+    "domain": "geometry_and_measurement",
+    "front": "How many centimetres are in 2.5 metres?",
+    "back": "250 cm. There are 100 cm in 1 m, so multiply: 2.5 × 100 = 250. Going from a larger unit to a smaller unit means multiplying."
+  },
+  {
+    "id": 92,
+    "domain": "data_management_and_probability",
+    "front": "You flip a coin and roll a six-sided die. What is the probability of getting heads and a 6?",
+    "back": "1 out of 12, written 1/12. For independent events multiply the chances: 1/2 × 1/6 = 1/12. The coin flip does not change the die roll."
+  },
+  {
+    "id": 93,
+    "domain": "number_sense_and_operations",
+    "front": "Solve for x: x + 7 = 15.",
+    "back": "x = 8. Subtract 7 from both sides to keep the equation balanced: x = 15 - 7 = 8."
+  },
+  {
+    "id": 94,
+    "domain": "patterns_and_relations",
+    "front": "Share $50 between two people in the ratio 2:3. What is the smaller share?",
+    "back": "$20. Add the ratio parts: 2 + 3 = 5. One part is 50 ÷ 5 = $10. The smaller share is 2 parts, so 2 × 10 = $20."
+  },
+  {
+    "id": 95,
+    "domain": "geometry_and_measurement",
+    "front": "An L-shaped room is a 4 m by 4 m square with a 2 m by 3 m rectangle attached. What is the total area?",
+    "back": "22 square m. Break a composite shape into simple shapes, find each area, and add: 4 × 4 = 16 and 2 × 3 = 6, so 16 + 6 = 22."
+  },
+  {
+    "id": 96,
+    "domain": "data_management_and_probability",
+    "front": "Events A and B cannot happen at the same time. If the chance of A is 0.3 and the chance of B is 0.5, what is the chance that A or B happens?",
+    "back": "0.8. Mutually exclusive events cannot overlap, so you add their probabilities: 0.3 + 0.5 = 0.8."
+  },
+  {
+    "id": 97,
+    "domain": "number_sense_and_operations",
+    "front": "Solve for x: 2x + 3 = 11.",
+    "back": "x = 4. Subtract 3 from both sides: 2x = 8. Then divide both sides by 2: x = 4."
+  },
+  {
+    "id": 98,
+    "domain": "patterns_and_relations",
+    "front": "A worker earns $18 per hour. How much is earned for 7 hours of work?",
+    "back": "$126. A rate is an amount for one unit, so multiply the rate by the number of hours: 18 × 7 = 126."
+  },
+  {
+    "id": 99,
+    "domain": "geometry_and_measurement",
+    "front": "How many litres are in 2,500 millilitres?",
+    "back": "2.5 L. There are 1,000 mL in 1 L, so divide: 2,500 ÷ 1,000 = 2.5. Going from a smaller unit to a larger unit means dividing."
+  },
+  {
+    "id": 100,
+    "domain": "data_management_and_probability",
+    "front": "A table shows 12 students chose apples and 8 chose bananas. How many students chose fruit in total?",
+    "back": "20. Read the two numbers from the table and add them: 12 + 8 = 20. A table organizes data in rows and columns so it is easy to read."
+  },
+  {
+    "id": 101,
+    "domain": "number_sense_and_operations",
+    "front": "How do you write the decimal 0.75 as a fraction in simplest form?",
+    "back": "3 over 4. The decimal 0.75 means 75 out of 100, so write 75/100 and then divide the top and bottom by 25. 75 divided by 25 is 3, and 100 divided by 25 is 4."
+  },
+  {
+    "id": 102,
+    "domain": "patterns_and_relations",
+    "front": "What is the next number in the pattern 3, 7, 11, 15, ...?",
+    "back": "19. The pattern adds 4 each time: 3 plus 4 is 7, 7 plus 4 is 11, and 11 plus 4 is 15. So the next term is 15 plus 4, which is 19."
+  },
+  {
+    "id": 103,
+    "domain": "geometry_and_measurement",
+    "front": "What is the perimeter of a rectangle with length 8 m and width 5 m?",
+    "back": "26 m. Perimeter is the distance around the shape. Add the length and the width, then double that total: 2 times (8 plus 5) equals 2 times 13, which is 26."
+  },
+  {
+    "id": 104,
+    "domain": "data_management_and_probability",
+    "front": "What is the mean (average) of the numbers 4, 8, 12, and 16?",
+    "back": "10. Add all four numbers to get 40, then divide by 4 because there are 4 values. 40 divided by 4 is 10."
+  },
+  {
+    "id": 105,
+    "domain": "number_sense_and_operations",
+    "front": "What is 1/2 times 3/4?",
+    "back": "3 over 8. To multiply fractions, multiply the top numbers and multiply the bottom numbers: 1 times 3 is 3, and 2 times 4 is 8."
+  },
+  {
+    "id": 106,
+    "domain": "patterns_and_relations",
+    "front": "What is the value of x in the equation x plus 9 equals 14?",
+    "back": "5. To undo the plus 9, subtract 9 from both sides. x equals 14 minus 9, which is 5."
+  },
+  {
+    "id": 107,
+    "domain": "geometry_and_measurement",
+    "front": "What is the area of a rectangle with length 6 cm and width 4 cm?",
+    "back": "24 square cm. Area is the space inside the shape. Multiply length times width: 6 times 4 equals 24."
+  },
+  {
+    "id": 108,
+    "domain": "data_management_and_probability",
+    "front": "What is the median of the data set 5, 2, 9, 4, and 7?",
+    "back": "5. The median is the middle value. First put the numbers in order: 2, 4, 5, 7, 9. The middle value is 5."
+  },
+  {
+    "id": 109,
+    "domain": "number_sense_and_operations",
+    "front": "How do you write 12 percent as a decimal?",
+    "back": "0.12. Percent means out of 100, so 12 percent is 12 out of 100, written as 12/100. Divide 12 by 100 to move the decimal two places left, which gives 0.12."
+  },
+  {
+    "id": 110,
+    "domain": "patterns_and_relations",
+    "front": "What is the value of x in the equation 3x plus 4 equals 19?",
+    "back": "5. Subtract 4 from both sides to get 3x equals 15, then divide both sides by 3. x equals 15 divided by 3, which is 5."
+  },
+  {
+    "id": 111,
+    "domain": "geometry_and_measurement",
+    "front": "What is the area of a triangle with base 10 cm and height 6 cm?",
+    "back": "30 square cm. Area of a triangle is one half of base times height. Multiply 10 times 6 to get 60, then divide by 2 to get 30."
+  },
+  {
+    "id": 112,
+    "domain": "data_management_and_probability",
+    "front": "What is the mode of the data set 3, 7, 3, 9, 7, and 3?",
+    "back": "3. The mode is the value that appears most often. The number 3 appears three times, which is more often than any other number."
+  },
+  {
+    "id": 113,
+    "domain": "number_sense_and_operations",
+    "front": "What is 2 and 1/4 plus 1 and 1/2?",
+    "back": "3 and 3/4. Change each mixed number to a fraction: 2 and 1/4 is 9/4, and 1 and 1/2 is 6/4. Add the tops to get 15/4, which is the same as 3 and 3/4."
+  },
+  {
+    "id": 114,
+    "domain": "patterns_and_relations",
+    "front": "What is the next number in the pattern 2, 4, 8, 16, ...?",
+    "back": "32. Each term is double the one before it: 2 times 2 is 4, 4 times 2 is 8, and 8 times 2 is 16. So the next term is 16 times 2, which is 32."
+  },
+  {
+    "id": 115,
+    "domain": "geometry_and_measurement",
+    "front": "A right triangle has legs of 3 and 4. What is the length of the hypotenuse?",
+    "back": "5. Use the Pythagorean theorem: leg squared plus leg squared equals hypotenuse squared. 3 squared is 9, and 4 squared is 16. Add them to get 25, and the square root of 25 is 5."
+  },
+  {
+    "id": 116,
+    "domain": "data_management_and_probability",
+    "front": "What is the range of the data set 12, 7, 20, and 5?",
+    "back": "15. The range is the largest value minus the smallest value. The largest is 20 and the smallest is 5, so 20 minus 5 is 15."
+  },
+  {
+    "id": 117,
+    "domain": "number_sense_and_operations",
+    "front": "What is 15 percent of 80?",
+    "back": "12. Write 15 percent as the decimal 0.15, then multiply by 80. 0.15 times 80 equals 12."
+  },
+  {
+    "id": 118,
+    "domain": "patterns_and_relations",
+    "front": "A formula says d equals 8t. What is the value of d when t is 3?",
+    "back": "24. To use a formula, put the given number in place of the letter. d equals 8 times t, so d equals 8 times 3, which is 24."
+  },
+  {
+    "id": 119,
+    "domain": "geometry_and_measurement",
+    "front": "What is the volume of a box that is 5 m long, 3 m wide, and 2 m tall?",
+    "back": "30 cubic m. Volume is length times width times height. Multiply 5 times 3 to get 15, then multiply by 2 to get 30."
+  },
+  {
+    "id": 120,
+    "domain": "data_management_and_probability",
+    "front": "How does adding one very high number to a data set affect the mean?",
+    "back": "It raises the mean. The mean is the total divided by the count. A very large new value increases the total a lot, so the mean moves up toward that high number."
+  },
+  {
+    "id": 121,
+    "domain": "number_sense_and_operations",
+    "front": "What is the value of 2 plus 3 times 4?",
+    "back": "14. Follow the order of operations. Do the multiplication first: 3 times 4 is 12, then add 2 to get 14. Doing 2 plus 3 first would give the wrong answer of 20."
+  },
+  {
+    "id": 122,
+    "domain": "patterns_and_relations",
+    "front": "What is the value of x in the equation 5x minus 2 equals 13?",
+    "back": "3. Add 2 to both sides to get 5x equals 15, then divide both sides by 5. x equals 15 divided by 5, which is 3."
+  },
+  {
+    "id": 123,
+    "domain": "geometry_and_measurement",
+    "front": "What is the circumference of a circle with radius 7 cm? Use pi as 22/7.",
+    "back": "44 cm. Circumference is 2 times pi times the radius. Using 22/7 for pi, the working is 2 times 22/7 times 7. The 7s cancel, leaving 2 times 22, which is 44."
+  },
+  {
+    "id": 124,
+    "domain": "data_management_and_probability",
+    "front": "A bag has 4 red marbles and 6 blue marbles. What is the probability of drawing a red marble?",
+    "back": "2 out of 5, or 2/5. Probability is the number of good outcomes divided by the total outcomes. There are 4 red marbles and 10 total, so 4/10, which simplifies to 2/5."
+  },
+  {
+    "id": 125,
+    "domain": "number_sense_and_operations",
+    "front": "How do you write the fraction 7/10 as a decimal?",
+    "back": "0.7. A fraction means to divide the top number by the bottom number. Divide 7 by 10, which gives 0.7 because the decimal point moves one place left."
+  },
+  {
+    "id": 126,
+    "domain": "patterns_and_relations",
+    "front": "A number plus 8 equals 20. Write an equation for this sentence and find the number.",
+    "back": "x plus 8 equals 20, and x is 12. Let x stand for the unknown number. To solve, subtract 8 from both sides: x equals 20 minus 8, which is 12."
+  },
+  {
+    "id": 127,
+    "domain": "geometry_and_measurement",
+    "front": "What is the area of a circle with radius 5 cm? Use pi as 3.14.",
+    "back": "78.5 square cm. Area of a circle is pi times the radius squared. The radius squared is 5 times 5, which is 25. Multiply 3.14 by 25 to get 78.5."
+  },
+  {
+    "id": 128,
+    "domain": "data_management_and_probability",
+    "front": "A coin is flipped and a die is rolled. What is the probability of getting a head and a 6?",
+    "back": "1 out of 12. For two independent events, multiply the probabilities. The chance of a head is 1/2 and the chance of a 6 is 1/6. Multiply 1/2 times 1/6 to get 1/12."
+  },
+  {
+    "id": 129,
+    "domain": "number_sense_and_operations",
+    "front": "How do you write the improper fraction 11/4 as a mixed number?",
+    "back": "2 and 3/4. Divide the top by the bottom: 11 divided by 4 gives 2 with a remainder of 3. The whole number is 2 and the remainder sits over the 4, giving 2 and 3/4."
+  },
+  {
+    "id": 130,
+    "domain": "patterns_and_relations",
+    "front": "What is the next number in the pattern 20, 17, 14, 11, ...?",
+    "back": "8. The pattern subtracts 3 each time: 20 minus 3 is 17, 17 minus 3 is 14, and 14 minus 3 is 11. So the next term is 11 minus 3, which is 8."
+  },
+  {
+    "id": 131,
+    "domain": "geometry_and_measurement",
+    "front": "How many millimeters are in 3.5 centimeters?",
+    "back": "35 mm. One centimeter equals 10 millimeters, so multiply by 10. 3.5 times 10 equals 35."
+  },
+  {
+    "id": 132,
+    "domain": "data_management_and_probability",
+    "front": "A die is rolled. What is the probability of rolling a 2 or a 4?",
+    "back": "1 out of 3, or 1/3. These two results cannot happen at the same time, so add their probabilities. Each is 1/6, so 1/6 plus 1/6 is 2/6, which simplifies to 1/3."
+  },
+  {
+    "id": 133,
+    "domain": "number_sense_and_operations",
+    "front": "What is negative 5 plus 9?",
+    "back": "4. Start at negative 5 and move up 9 places toward the positive side. Negative 5 plus 5 reaches 0, and the remaining 4 brings you to 4."
+  },
+  {
+    "id": 134,
+    "domain": "patterns_and_relations",
+    "front": "What is the value of x in the equation x divided by 3 equals 12?",
+    "back": "36. To undo dividing by 3, multiply both sides by 3. x equals 12 times 3, which is 36."
+  },
+  {
+    "id": 135,
+    "domain": "geometry_and_measurement",
+    "front": "A square has a side length of 4 cm. If every side is doubled, what is the new area?",
+    "back": "64 square cm. Doubling 4 cm gives a side of 8 cm. Area of a square is side times side, so 8 times 8 equals 64."
+  },
+  {
+    "id": 136,
+    "domain": "data_management_and_probability",
+    "front": "On a bar graph, the horizontal axis lists fruits and the vertical axis shows the count. The Apple bar reaches 25. How many apples were counted?",
+    "back": "25 apples. The height of a bar tells you the value for that category. Since the Apple bar reaches 25 on the count axis, there are 25 apples."
+  },
+  {
+    "id": 137,
+    "domain": "number_sense_and_operations",
+    "front": "Round the decimal 3.67 to the nearest tenth.",
+    "back": "3.7. The tenths digit is 6. Look at the digit after it, which is 7. Since 7 is 5 or more, round the tenths digit up from 6 to 7, giving 3.7."
+  },
+  {
+    "id": 138,
+    "domain": "patterns_and_relations",
+    "front": "A formula says C equals 5 plus 2n. What is the value of C when n is 6?",
+    "back": "17. Replace n with 6: C equals 5 plus 2 times 6. Multiply 2 times 6 to get 12, then add 5 to get 17."
+  },
+  {
+    "id": 139,
+    "domain": "geometry_and_measurement",
+    "front": "What is the volume of a cube with an edge length of 3 cm?",
+    "back": "27 cubic cm. For a cube, multiply the edge by itself three times: 3 times 3 is 9, and 9 times 3 is 27."
+  },
+  {
+    "id": 140,
+    "domain": "data_management_and_probability",
+    "front": "On a line graph, the temperature line goes steadily upward from left to right. What does this tell you?",
+    "back": "The temperature is increasing over time. A rising line on a line graph shows that the value on the vertical axis grows higher as the value on the horizontal axis moves forward."
+  },
+  {
+    "id": 141,
+    "domain": "number_sense_and_operations",
+    "front": "How do you simplify the ratio 12 to 18?",
+    "back": "2 to 3. Divide both parts of the ratio by the same number. Both 12 and 18 divide evenly by 6, so 12 divided by 6 is 2, and 18 divided by 6 is 3."
+  },
+  {
+    "id": 142,
+    "domain": "patterns_and_relations",
+    "front": "What is the next number in the pattern 1, 2, 4, 7, 11, ...?",
+    "back": "16. The gaps between the terms grow by 1: the steps are plus 1, plus 2, plus 3, and plus 4. The next step is plus 5, so 11 plus 5 is 16."
+  },
+  {
+    "id": 143,
+    "domain": "geometry_and_measurement",
+    "front": "Two angles of a triangle are 50 degrees and 60 degrees. What is the third angle?",
+    "back": "70 degrees. The three angles of any triangle always add to 180 degrees. Add 50 and 60 to get 110, then subtract from 180 to get 70."
+  },
+  {
+    "id": 144,
+    "domain": "data_management_and_probability",
+    "front": "The probability that it will rain is 0.4. What is the probability that it will not rain?",
+    "back": "0.6. The chance of rain plus the chance of no rain must add to 1. Subtract 0.4 from 1 to get 0.6."
+  },
+  {
+    "id": 145,
+    "domain": "number_sense_and_operations",
+    "front": "A car travels 240 km in 3 hours. What is its average speed in km per hour?",
+    "back": "80 km per hour. Speed equals distance divided by time. Divide 240 by 3 to get 80."
+  },
+  {
+    "id": 146,
+    "domain": "patterns_and_relations",
+    "front": "What is the value of x in the equation x minus 7 equals 12?",
+    "back": "19. To undo the minus 7, add 7 to both sides. x equals 12 plus 7, which is 19."
+  },
+  {
+    "id": 147,
+    "domain": "geometry_and_measurement",
+    "front": "What is the volume of a cylinder with radius 3 cm and height 4 cm? Use pi as 3.14.",
+    "back": "113.04 cubic cm. Volume of a cylinder is pi times radius squared times height. The radius squared is 3 times 3, which is 9. Multiply 3.14 by 9 to get 28.26, then multiply by 4 to get 113.04."
+  },
+  {
+    "id": 148,
+    "domain": "data_management_and_probability",
+    "front": "A circle graph shows that 25 percent of a day is spent on sports. What fraction of the day is that?",
+    "back": "1 out of 4. Percent means out of 100, so 25 percent is 25/100. Divide the top and bottom by 25 to get 1/4."
+  },
+  {
+    "id": 149,
+    "domain": "number_sense_and_operations",
+    "front": "What is the simple interest on 500 dollars at 4 percent per year for 2 years?",
+    "back": "40 dollars. Simple interest is principal times rate times time. The rate 4 percent is 0.04 as a decimal. Multiply 500 times 0.04 to get 20, then multiply by 2 years to get 40."
+  },
+  {
+    "id": 150,
+    "domain": "patterns_and_relations",
+    "front": "Write an equation for the sentence: twice a number plus 5 is 13. Then find the number.",
+    "back": "2x plus 5 equals 13, and x is 4. Let x be the unknown number. Subtract 5 from both sides to get 2x equals 8, then divide by 2. x equals 8 divided by 2, which is 4."
+  },
+  {
+    "id": 151,
+    "domain": "geometry_and_measurement",
+    "front": "A rectangle is 6 cm long and 4 cm wide. What is its perimeter?",
+    "back": "The perimeter is 20 cm. Add all four sides: 6 + 4 + 6 + 4 = 20 cm. Or use P = 2(l + w) = 2(6 + 4) = 2(10) = 20 cm. Perimeter is the distance around a shape."
+  },
+  {
+    "id": 152,
+    "domain": "data_management_and_probability",
+    "front": "What is the mean (average) of the numbers 4, 8, 10, and 14?",
+    "back": "The mean is 9. Add all the numbers: 4 + 8 + 10 + 14 = 36. Then divide by how many numbers there are: 36 / 4 = 9."
+  },
+  {
+    "id": 153,
+    "domain": "number_sense_and_operations",
+    "front": "What is 3/4 written as a decimal and as a percent?",
+    "back": "3/4 as a decimal is 0.75 and as a percent is 75%. Divide the top number by the bottom number: 3 / 4 = 0.75. To change a decimal to a percent, move the decimal point two places to the right, so 0.75 becomes 75%."
+  },
+  {
+    "id": 154,
+    "domain": "patterns_and_relations",
+    "front": "What is the next number in the pattern 2, 5, 8, 11, ...?",
+    "back": "The next number is 14. Each number goes up by 3. Add 3 to the last number: 11 + 3 = 14. The pattern is add 3 each time: 2, 5, 8, 11, 14."
+  },
+  {
+    "id": 155,
+    "domain": "geometry_and_measurement",
+    "front": "A triangle has a base of 10 cm and a height of 6 cm. What is its area?",
+    "back": "The area is 30 cm2. Use A = (1/2) x base x height = 0.5 x 10 x 6 = 30. A triangle takes up half as much space as a rectangle with the same base and height."
+  },
+  {
+    "id": 156,
+    "domain": "data_management_and_probability",
+    "front": "What is the median of the numbers 3, 7, 2, 9, and 5?",
+    "back": "The median is 5. Put the numbers in order: 2, 3, 5, 7, 9. The median is the middle value, which is 5. With an odd amount of numbers, it is the one in the centre."
+  },
+  {
+    "id": 157,
+    "domain": "number_sense_and_operations",
+    "front": "What is 1/4 + 1/8? Give your answer as a fraction in lowest terms.",
+    "back": "1/4 + 1/8 = 3/8. Find a common denominator, which is a bottom number both fractions can use. The smallest number 4 and 8 both divide into is 8. Change 1/4 to 2/8, then add 2/8 + 1/8 = 3/8."
+  },
+  {
+    "id": 158,
+    "domain": "patterns_and_relations",
+    "front": "Solve for x: x + 7 = 12.",
+    "back": "x = 5. Subtract 7 from both sides to get x alone: x = 12 - 7 = 5. Whatever you do to one side of an equation, you must do to the other side."
+  },
+  {
+    "id": 159,
+    "domain": "geometry_and_measurement",
+    "front": "A box is 5 cm long, 3 cm wide, and 4 cm tall. What is its volume?",
+    "back": "The volume is 60 cm3. Use V = length x width x height = 5 x 3 x 4 = 60 cm3. Volume is the space inside a 3D shape, measured in cubic units."
+  },
+  {
+    "id": 160,
+    "domain": "data_management_and_probability",
+    "front": "What is the mode of the numbers 2, 5, 5, 8, 5, 9?",
+    "back": "The mode is 5. The mode is the number that appears most often. In this list, 5 shows up three times, more than any other number."
+  },
+  {
+    "id": 161,
+    "domain": "number_sense_and_operations",
+    "front": "A jacket costs $80 and is on sale for 25% off. What is the sale price?",
+    "back": "The sale price is $60. Find 25% of $80: 0.25 x 80 = $20 off. Subtract that from the original price: 80 - 20 = $60. Or multiply directly: 80 x 0.75 = $60."
+  },
+  {
+    "id": 162,
+    "domain": "patterns_and_relations",
+    "front": "Solve for x: 3x = 21.",
+    "back": "x = 7. Divide both sides by 3: x = 21 / 3 = 7. The expression 3x means 3 times x, so the opposite of multiplying by 3 is dividing by 3."
+  },
+  {
+    "id": 163,
+    "domain": "geometry_and_measurement",
+    "front": "A right triangle has legs of 3 cm and 4 cm. What is the length of the hypotenuse, the longest side?",
+    "back": "The hypotenuse is 5 cm. Use a2 + b2 = c2: 3 squared + 4 squared = 9 + 16 = 25 = c squared, so c = the square root of 25 = 5 cm. The hypotenuse is the side across from the right angle."
+  },
+  {
+    "id": 164,
+    "domain": "data_management_and_probability",
+    "front": "What is the range of the numbers 12, 7, 20, 15, and 3?",
+    "back": "The range is 17. Subtract the smallest number from the largest number: 20 - 3 = 17. The range shows how spread out the data is."
+  },
+  {
+    "id": 165,
+    "domain": "number_sense_and_operations",
+    "front": "What is (-6) x (-4)?",
+    "back": "The answer is 24. When you multiply two negative numbers, the result is positive. Multiply the numbers and ignore the signs: 6 x 4 = 24, then leave it positive."
+  },
+  {
+    "id": 166,
+    "domain": "patterns_and_relations",
+    "front": "The perimeter of a rectangle is P = 2(l + w). What is the perimeter when the length is 8 cm and the width is 5 cm?",
+    "back": "The perimeter is 26 cm. Put the values into the formula: P = 2(8 + 5) = 2(13) = 26 cm. Add the length and width first, then multiply by 2."
+  },
+  {
+    "id": 167,
+    "domain": "geometry_and_measurement",
+    "front": "A circle has a diameter of 10 cm. What is its circumference? Use pi = 3.14.",
+    "back": "The circumference is 31.4 cm. Use C = pi x diameter = 3.14 x 10 = 31.4 cm. Circumference is the distance around a circle, and pi is about 3.14."
+  },
+  {
+    "id": 168,
+    "domain": "data_management_and_probability",
+    "front": "The ages are 10, 11, 11, 12, and 60. Does the outlier 60 pull the mean up or down, and is the median a better measure here?",
+    "back": "The outlier pulls the mean up, so the median is the better measure. The mean is 10 + 11 + 11 + 12 + 60 = 104, divided by 5 = 20.8, but the median is 11. One very large number makes the mean far from the typical age."
+  },
+  {
+    "id": 169,
+    "domain": "number_sense_and_operations",
+    "front": "A meal costs $40 and the sales tax is 13%. What is the total cost including tax?",
+    "back": "The total is $45.20. Find 13% of $40: 0.13 x 40 = $5.20. Add that to the original price: 40 + 5.20 = $45.20. Or multiply: 40 x 1.13 = $45.20."
+  },
+  {
+    "id": 170,
+    "domain": "patterns_and_relations",
+    "front": "A taxi charges a $3 flat fee plus $2 per kilometre. How far can you travel for $15?",
+    "back": "You can travel 6 km. The equation is 2x + 3 = 15. Subtract 3 from both sides: 2x = 12, then divide both sides by 2: x = 6 km."
+  },
+  {
+    "id": 171,
+    "domain": "geometry_and_measurement",
+    "front": "A circle has a radius of 5 cm. What is its area? Use pi = 3.14.",
+    "back": "The area is 78.5 cm2. Use A = pi x radius squared = 3.14 x 5 squared = 3.14 x 25 = 78.5 cm2. The radius is half the diameter, and radius squared means the radius times itself."
+  },
+  {
+    "id": 172,
+    "domain": "data_management_and_probability",
+    "front": "A bag has 3 red marbles and 7 blue marbles. What is the probability of drawing a red marble?",
+    "back": "The probability is 3/10, or 0.3, or 30%. There are 3 red marbles out of 10 marbles in total. Probability = favourable outcomes divided by total outcomes = 3 / 10 = 0.3."
+  },
+  {
+    "id": 173,
+    "domain": "number_sense_and_operations",
+    "front": "Using order of operations, what is 3 + 4 x 2?",
+    "back": "The answer is 11. Multiplication comes before addition, so do 4 x 2 = 8 first, then add 3: 3 + 8 = 11. If you added first you would get 14, which is wrong."
+  },
+  {
+    "id": 174,
+    "domain": "patterns_and_relations",
+    "front": "A pattern of squares starts with 1, 4, 9, 16. What is the next number?",
+    "back": "The next number is 25. These are square numbers: 1 x 1, 2 x 2, 3 x 3, 4 x 4. The next one is 5 x 5 = 25. The gaps between terms go 3, 5, 7, then 9."
+  },
+  {
+    "id": 175,
+    "domain": "geometry_and_measurement",
+    "front": "A cube has a side length of 3 cm. What is its surface area?",
+    "back": "The surface area is 54 cm2. A cube has 6 identical square faces. Each face has area 3 x 3 = 9 cm2, so the total is 6 x 9 = 54 cm2. Surface area is the total area of all the outside faces."
+  },
+  {
+    "id": 176,
+    "domain": "data_management_and_probability",
+    "front": "You flip a coin and roll a die. What is the probability of getting heads AND a 4?",
+    "back": "The probability is 1/12. The chance of heads is 1/2 and the chance of rolling a 4 is 1/6. For independent events, where one does not change the other, multiply: 1/2 x 1/6 = 1/12."
+  },
+  {
+    "id": 177,
+    "domain": "number_sense_and_operations",
+    "front": "A restaurant bill is $60 and you leave a 15% tip. How much is the tip?",
+    "back": "The tip is $9. Multiply 0.15 x 60 = $9. For a quick estimate, 10% of $60 is $6 and 5% is $3, so 15% is $6 + $3 = $9."
+  },
+  {
+    "id": 178,
+    "domain": "patterns_and_relations",
+    "front": "The distance formula is d = r x t. How far do you travel at 60 km/h for 3 hours?",
+    "back": "You travel 180 km. Put the values into the formula: d = 60 x 3 = 180 km. Rate times time gives distance, so multiply the speed by the hours travelled."
+  },
+  {
+    "id": 179,
+    "domain": "geometry_and_measurement",
+    "front": "How many centimetres are in 2.5 metres?",
+    "back": "There are 250 centimetres. There are 100 centimetres in 1 metre, so multiply: 2.5 x 100 = 250 cm. To change metres to centimetres, move the decimal point two places to the right."
+  },
+  {
+    "id": 180,
+    "domain": "data_management_and_probability",
+    "front": "A spinner lands on red with probability 0.4, on blue with 0.35, and on green with 0.25. What is the probability of landing on red or blue?",
+    "back": "The probability is 0.75. These are mutually exclusive events, meaning the spinner can only land on one colour at a time. For mutually exclusive events, add the probabilities: 0.4 + 0.35 = 0.75."
+  },
+  {
+    "id": 181,
+    "domain": "number_sense_and_operations",
+    "front": "What is 2 3/4 written as an improper fraction, where the top number is bigger than the bottom?",
+    "back": "2 3/4 = 11/4. Multiply the whole number by the bottom number: 2 x 4 = 8. Add the top number: 8 + 3 = 11. Keep the same bottom number: 11/4."
+  },
+  {
+    "id": 182,
+    "domain": "patterns_and_relations",
+    "front": "Solve for x: 2x + 5 = 17.",
+    "back": "x = 6. Subtract 5 from both sides: 2x = 12, then divide both sides by 2: x = 6. Check it: 2(6) + 5 = 17."
+  },
+  {
+    "id": 183,
+    "domain": "geometry_and_measurement",
+    "front": "A photo is 4 cm wide and 6 cm tall. It is enlarged so the new width is 12 cm. What is the new height?",
+    "back": "The new height is 18 cm. The scale factor is 12 / 4 = 3, so the photo is tripled. Multiply the old height by 3: 6 x 3 = 18 cm. The width and height grow by the same factor."
+  },
+  {
+    "id": 184,
+    "domain": "data_management_and_probability",
+    "front": "A bar graph shows that 20 students like apples, 15 like bananas, and 10 like oranges. How many students were surveyed in total?",
+    "back": "A total of 45 students were surveyed. Add the heights of the bars: 20 + 15 + 10 = 45. A bar graph shows the count for each category, and the total is the sum of all the bars."
+  },
+  {
+    "id": 185,
+    "domain": "number_sense_and_operations",
+    "front": "If 5 pens cost $7.50, how much do 8 pens cost?",
+    "back": "8 pens cost $12.00. First find the unit price: 7.50 / 5 = $1.50 per pen. Multiply by 8: 1.50 x 8 = $12.00. Or use a proportion: 5/7.50 = 8/x, so x = 8 x 7.50 / 5 = 12."
+  },
+  {
+    "id": 186,
+    "domain": "patterns_and_relations",
+    "front": "Solve for x: x divided by 4 = 9.",
+    "back": "x = 36. Multiply both sides by 4: x = 9 x 4 = 36. Because x is divided by 4, the opposite operation is multiplication."
+  },
+  {
+    "id": 187,
+    "domain": "geometry_and_measurement",
+    "front": "An L-shaped room is made of two rectangles: one is 4 m by 3 m and the other is 2 m by 3 m. What is the total area?",
+    "back": "The total area is 18 m2. Add the areas of the two rectangles: (4 x 3) + (2 x 3) = 12 + 6 = 18 m2. For a composite shape, split it into simpler shapes, find each area, then add them."
+  },
+  {
+    "id": 188,
+    "domain": "data_management_and_probability",
+    "front": "In a circle graph, one section is labelled 25%. What fraction of the whole does this section represent?",
+    "back": "It represents 1/4. A circle graph shows parts of a whole that add up to 100%. Change 25% to a fraction: 25/100, which reduces to 1/4."
+  },
+  {
+    "id": 189,
+    "domain": "number_sense_and_operations",
+    "front": "What is 30% of 150?",
+    "back": "30% of 150 is 45. Change 30% to a decimal: 0.30, then multiply: 0.30 x 150 = 45. Or take 10% of 150, which is 15, then multiply by 3: 15 x 3 = 45."
+  },
+  {
+    "id": 190,
+    "domain": "patterns_and_relations",
+    "front": "A phone plan costs $25 per month plus $0.10 per minute. What is the bill for 120 minutes in one month?",
+    "back": "The bill is $37. Use the expression 25 + (0.10 x 120). Do the multiplication first: 0.10 x 120 = $12, then add: 25 + 12 = $37."
+  },
+  {
+    "id": 191,
+    "domain": "geometry_and_measurement",
+    "front": "A parallelogram has a base of 8 cm and a height of 5 cm. What is its area?",
+    "back": "The area is 40 cm2. Use A = base x height = 8 x 5 = 40 cm2. The height is the straight up distance from the base to the top, not the length of the slanted side."
+  },
+  {
+    "id": 192,
+    "domain": "data_management_and_probability",
+    "front": "A scatterplot shows that more study time is paired with higher test scores. What does this pattern show?",
+    "back": "It shows a positive trend: as study time goes up, test scores tend to go up. In a scatterplot, points that rise from left to right show a positive relationship between the two things being measured."
+  },
+  {
+    "id": 193,
+    "domain": "number_sense_and_operations",
+    "front": "A salesperson earns an 8% commission on sales. What is the commission on $2,500 in sales?",
+    "back": "The commission is $200. Change 8% to a decimal: 0.08, then multiply by the sales total: 0.08 x 2500 = $200. Commission is a percent of the sales amount."
+  },
+  {
+    "id": 194,
+    "domain": "patterns_and_relations",
+    "front": "The area of a rectangle is A = l x w. What is the area when the length is 9 cm and the width is 4 cm?",
+    "back": "The area is 36 cm2. Put the values into the formula: A = 9 x 4 = 36. Area is the space inside a shape, measured in square units."
+  },
+  {
+    "id": 195,
+    "domain": "geometry_and_measurement",
+    "front": "A cylinder has a radius of 2 cm and a height of 5 cm. What is its volume? Use pi = 3.14.",
+    "back": "The volume is 62.8 cm3. Use V = pi x radius squared x height = 3.14 x 2 squared x 5 = 3.14 x 4 x 5 = 62.8 cm3. First find the area of the circular base, then multiply by the height."
+  },
+  {
+    "id": 196,
+    "domain": "data_management_and_probability",
+    "front": "A number puzzle says: take a number, double it, then add 6. You get 20. What was the starting number?",
+    "back": "The starting number is 7. Work backwards. Undo the add 6 with 20 - 6 = 14, then undo the doubling with 14 / 2 = 7. Do the opposite operations in reverse order."
+  },
+  {
+    "id": 197,
+    "domain": "number_sense_and_operations",
+    "front": "You put $1,000 in a savings account that pays 5% simple interest per year. How much interest do you earn in 2 years?",
+    "back": "You earn $100 in interest. Use interest = principal x rate x time, so 1000 x 0.05 x 2 = $100. The principal is the starting money, the rate is 0.05, and the time is 2 years."
+  },
+  {
+    "id": 198,
+    "domain": "patterns_and_relations",
+    "front": "A pattern starts at 100 and each step subtracts 15. What are the first four numbers of this pattern?",
+    "back": "The first four numbers are 100, 85, 70, 55. Subtract 15 from each term to get the next one: 100 - 15 = 85, 85 - 15 = 70, 70 - 15 = 55."
+  },
+  {
+    "id": 199,
+    "domain": "geometry_and_measurement",
+    "front": "A right triangle has a hypotenuse of 13 cm and one leg of 5 cm. What is the length of the other leg?",
+    "back": "The other leg is 12 cm. Use a2 + b2 = c2, so 5 squared + b squared = 13 squared: 25 + b squared = 169, so b squared = 144 and b = the square root of 144 = 12 cm."
+  },
+  {
+    "id": 200,
+    "domain": "data_management_and_probability",
+    "front": "The probability that it rains tomorrow is 0.2. What is the probability that it does NOT rain?",
+    "back": "The probability is 0.8. The chance of rain and the chance of no rain must add to 1, so subtract: 1 - 0.2 = 0.8. This is the complement, meaning the opposite outcome."
+  },
+  {
+    "id": 201,
+    "domain": "number_sense_and_operations",
+    "front": "What is 3/4 written as a decimal?",
+    "back": "0.75. Divide the numerator by the denominator: 3 divided by 4 is 0.75. The numerator is the top number and the denominator is the bottom number."
+  },
+  {
+    "id": 202,
+    "domain": "patterns_and_relations",
+    "front": "What is the next number in this pattern: 2, 5, 8, 11, ...?",
+    "back": "14. The pattern adds 3 each time: 2 plus 3 is 5, 5 plus 3 is 8, 8 plus 3 is 11, and 11 plus 3 is 14."
+  },
+  {
+    "id": 203,
+    "domain": "geometry_and_measurement",
+    "front": "What is the perimeter of a rectangle that is 8 cm long and 5 cm wide?",
+    "back": "26 cm. Perimeter is the distance around the shape. Add the length and the width, then double the total: 2 times (8 plus 5) is 2 times 13, which is 26."
+  },
+  {
+    "id": 204,
+    "domain": "data_management_and_probability",
+    "front": "What is the mean of 4, 8, 6, and 10?",
+    "back": "7. The mean is the average. Add the numbers to get 28, then divide by how many numbers there are, which is 4: 28 divided by 4 is 7."
+  },
+  {
+    "id": 205,
+    "domain": "number_sense_and_operations",
+    "front": "Write 0.45 as a percent.",
+    "back": "45%. Percent means out of 100. Move the decimal point two places to the right, then add a percent sign: 0.45 becomes 45%."
+  },
+  {
+    "id": 206,
+    "domain": "patterns_and_relations",
+    "front": "Solve for x: x plus 7 equals 15.",
+    "back": "x = 8. To get x alone, do the opposite of adding 7, which is subtracting 7, on both sides: 15 minus 7 is 8."
+  },
+  {
+    "id": 207,
+    "domain": "geometry_and_measurement",
+    "front": "What is the area of a rectangle that is 8 cm long and 5 cm wide?",
+    "back": "40 square cm. Area is the space inside the shape. For a rectangle, multiply the length by the width: 8 times 5 is 40."
+  },
+  {
+    "id": 208,
+    "domain": "data_management_and_probability",
+    "front": "What is the median of 3, 7, 2, 9, and 5?",
+    "back": "5. The median is the middle value. Put the numbers in order first: 2, 3, 5, 7, 9. The middle number is 5."
+  },
+  {
+    "id": 209,
+    "domain": "number_sense_and_operations",
+    "front": "What is 20% of 150?",
+    "back": "30. Percent means out of 100, so 20% is 20/100, which is 0.20. Multiply 0.20 by 150: 0.20 times 150 is 30."
+  },
+  {
+    "id": 210,
+    "domain": "patterns_and_relations",
+    "front": "Solve for x: 3x plus 4 equals 19.",
+    "back": "x = 5. Subtract 4 from both sides to get 3x = 15. Then divide both sides by 3: 15 divided by 3 is 5."
+  },
+  {
+    "id": 211,
+    "domain": "geometry_and_measurement",
+    "front": "What is the area of a triangle with a base of 10 cm and a height of 6 cm?",
+    "back": "30 square cm. For a triangle, multiply the base by the height, then take half: (10 times 6) is 60, and 60 divided by 2 is 30."
+  },
+  {
+    "id": 212,
+    "domain": "data_management_and_probability",
+    "front": "What is the mode of 2, 4, 4, and 6?",
+    "back": "4. The mode is the value that appears most often. In this list, 4 appears twice while 2 and 6 appear once, so the mode is 4."
+  },
+  {
+    "id": 213,
+    "domain": "number_sense_and_operations",
+    "front": "What is 1/3 plus 1/4?",
+    "back": "7/12. To add fractions with different bottom numbers, first find a common denominator. 3 and 4 both go into 12, so 1/3 is 4/12 and 1/4 is 3/12. Add the top numbers: 4 plus 3 is 7, so the total is 7/12."
+  },
+  {
+    "id": 214,
+    "domain": "patterns_and_relations",
+    "front": "Simplify the ratio 12 to 18.",
+    "back": "2 to 3. A ratio compares two amounts. Divide both parts by their greatest common factor, which is 6: 12 divided by 6 is 2, and 18 divided by 6 is 3."
+  },
+  {
+    "id": 215,
+    "domain": "geometry_and_measurement",
+    "front": "What is the circumference of a circle with a radius of 5 cm? Use 3.14 for pi.",
+    "back": "31.4 cm. Circumference is the distance around a circle. The formula is 2 times pi times the radius: 2 times 3.14 times 5 is 31.4."
+  },
+  {
+    "id": 216,
+    "domain": "data_management_and_probability",
+    "front": "What is the range of 10, 3, 8, and 5?",
+    "back": "7. The range is the largest value minus the smallest: 10 minus 3 is 7."
+  },
+  {
+    "id": 217,
+    "domain": "number_sense_and_operations",
+    "front": "What is 9 minus negative 4?",
+    "back": "13. Subtracting a negative number is the same as adding that number, so 9 plus 4 is 13."
+  },
+  {
+    "id": 218,
+    "domain": "patterns_and_relations",
+    "front": "Solve the proportion: 3/5 equals x/15.",
+    "back": "x = 9. A proportion says two fractions are equal. Cross multiply: 3 times 15 is 45, and 5 times x is 5x, so 45 equals 5x. Divide both sides by 5: 45 divided by 5 is 9."
+  },
+  {
+    "id": 219,
+    "domain": "geometry_and_measurement",
+    "front": "What is the area of a circle with a radius of 5 cm? Use 3.14 for pi.",
+    "back": "78.5 square cm. The formula is pi times the radius squared, which means radius times itself: 3.14 times 5 times 5 is 3.14 times 25, which is 78.5."
+  },
+  {
+    "id": 220,
+    "domain": "data_management_and_probability",
+    "front": "A data set is 2, 4, 6, 8, and 100. How does the value 100 affect the mean?",
+    "back": "It pulls the mean up. The mean of the other four numbers is (2 plus 4 plus 6 plus 8) divided by 4, which is 5. Adding 100 gives a much higher mean of (2 plus 4 plus 6 plus 8 plus 100) divided by 5, which is 24."
+  },
+  {
+    "id": 221,
+    "domain": "number_sense_and_operations",
+    "front": "What is 3 plus 4 times 2?",
+    "back": "11. Use the order of operations, which is also called BEDMAS, and multiply before you add: 4 times 2 is 8, then 3 plus 8 is 11."
+  },
+  {
+    "id": 222,
+    "domain": "patterns_and_relations",
+    "front": "A car travels 240 km in 3 hours. What is its average speed?",
+    "back": "80 km per hour. Average speed is the distance divided by the time: 240 divided by 3 is 80."
+  },
+  {
+    "id": 223,
+    "domain": "geometry_and_measurement",
+    "front": "What is the volume of a rectangular prism that is 4 cm long, 3 cm wide, and 2 cm tall?",
+    "back": "24 cubic cm. Volume is the space a 3D shape takes up. Multiply the length by the width by the height: 4 times 3 times 2 is 24."
+  },
+  {
+    "id": 224,
+    "domain": "data_management_and_probability",
+    "front": "You roll one six-sided die. What is the probability of rolling an even number?",
+    "back": "1 out of 2. Probability is the number of desired outcomes divided by the total outcomes. The even numbers on a die are 2, 4, and 6, which is 3 outcomes out of 6, so the probability is 3/6, which simplifies to 1/2."
+  },
+  {
+    "id": 225,
+    "domain": "number_sense_and_operations",
+    "front": "A jacket costs $60 and is 20% off. What is the sale price?",
+    "back": "$48. The discount is 20% of $60, which is 0.20 times 60, or $12. Subtract the discount from the original price: 60 minus 12 is 48."
+  },
+  {
+    "id": 226,
+    "domain": "patterns_and_relations",
+    "front": "On a map, 1 cm represents 5 km. How far apart are two towns that are 4 cm apart on the map?",
+    "back": "20 km. Multiply the map distance by the scale: 4 times 5 is 20."
+  },
+  {
+    "id": 227,
+    "domain": "geometry_and_measurement",
+    "front": "A right triangle has legs of 3 cm and 4 cm. What is the length of the hypotenuse?",
+    "back": "5 cm. Use the Pythagorean theorem: leg squared plus leg squared equals hypotenuse squared. So 3 squared is 9 and 4 squared is 16, and 9 plus 16 is 25. The square root of 25 is 5."
+  },
+  {
+    "id": 228,
+    "domain": "data_management_and_probability",
+    "front": "You flip a coin twice. What is the probability of getting heads both times?",
+    "back": "1 out of 4. The two flips are independent, meaning the first does not change the second. Multiply the two probabilities: 1/2 times 1/2 is 1/4."
+  },
+  {
+    "id": 229,
+    "domain": "number_sense_and_operations",
+    "front": "A bill is $200 before tax and the tax rate is 13%. What is the total with tax?",
+    "back": "$226. The tax is 13% of $200, which is 0.13 times 200, or $26. Add the tax to the bill: 200 plus 26 is 226."
+  },
+  {
+    "id": 230,
+    "domain": "patterns_and_relations",
+    "front": "The area of a rectangle is length times width. If the area is 24 and the width is 6, what is the length?",
+    "back": "4. Replace the known values in the formula: 24 equals length times 6. Divide both sides by 6 to solve for the length: 24 divided by 6 is 4."
+  },
+  {
+    "id": 231,
+    "domain": "geometry_and_measurement",
+    "front": "What is the surface area of a cube with a side length of 3 cm?",
+    "back": "54 square cm. Surface area is the total area of all the faces. A cube has 6 identical square faces. Each face has area 3 times 3, which is 9, so the total is 6 times 9, which is 54."
+  },
+  {
+    "id": 232,
+    "domain": "data_management_and_probability",
+    "front": "You roll one six-sided die. What is the probability of rolling a 2 or a 5?",
+    "back": "1 out of 3. Rolling a 2 and rolling a 5 cannot happen at the same time, so the events are mutually exclusive. Add the two probabilities: 1/6 plus 1/6 is 2/6, which simplifies to 1/3."
+  },
+  {
+    "id": 233,
+    "domain": "number_sense_and_operations",
+    "front": "What is 3/4 of 200?",
+    "back": "150. A fraction of a number means multiply. First divide 200 by the bottom number 4 to get 50, then multiply by the top number 3: 50 times 3 is 150."
+  },
+  {
+    "id": 234,
+    "domain": "patterns_and_relations",
+    "front": "What is the next number in this pattern: 3, 6, 12, 24, ...?",
+    "back": "48. The pattern multiplies by 2 each time: 3 times 2 is 6, 6 times 2 is 12, 12 times 2 is 24, and 24 times 2 is 48."
+  },
+  {
+    "id": 235,
+    "domain": "geometry_and_measurement",
+    "front": "What is the area of a parallelogram with a base of 12 cm and a height of 5 cm?",
+    "back": "60 square cm. The area of a parallelogram is the base times the height: 12 times 5 is 60."
+  },
+  {
+    "id": 236,
+    "domain": "data_management_and_probability",
+    "front": "In a class of 20 students, 8 like blue, 7 like red, and the rest like green. How many students like green?",
+    "back": "5. Add the students who like blue and red: 8 plus 7 is 15. Then subtract that from the total: 20 minus 15 is 5."
+  },
+  {
+    "id": 237,
+    "domain": "number_sense_and_operations",
+    "front": "A meal costs $50 and you leave a 15% tip. How much is the tip?",
+    "back": "$7.50. To find 15% of $50, multiply 0.15 by 50: 0.15 times 50 is 7.5, so the tip is $7.50."
+  },
+  {
+    "id": 238,
+    "domain": "patterns_and_relations",
+    "front": "Solve for x: 4x equals 28.",
+    "back": "x = 7. Divide both sides by 4 to get x alone: 28 divided by 4 is 7."
+  },
+  {
+    "id": 239,
+    "domain": "geometry_and_measurement",
+    "front": "Convert 2.5 metres to centimetres.",
+    "back": "250 cm. There are 100 centimetres in 1 metre, so multiply the metres by 100: 2.5 times 100 is 250."
+  },
+  {
+    "id": 240,
+    "domain": "data_management_and_probability",
+    "front": "A circle graph shows that one section is 25% of the whole. How many degrees does that section take up?",
+    "back": "90 degrees. A circle has 360 degrees in total. Find 25% of 360: 0.25 times 360 is 90."
+  },
+  {
+    "id": 241,
+    "domain": "number_sense_and_operations",
+    "front": "A salesperson earns 8% commission on $2,500 in sales. How much commission do they earn?",
+    "back": "$200. Commission is a percent of the sales amount: 0.08 times 2500 is $200."
+  },
+  {
+    "id": 242,
+    "domain": "patterns_and_relations",
+    "front": "Solve for x: x minus 6 equals 4.",
+    "back": "x = 10. Add 6 to both sides to get x alone: 4 plus 6 is 10."
+  },
+  {
+    "id": 243,
+    "domain": "geometry_and_measurement",
+    "front": "What is the perimeter of a square with a side length of 9 cm?",
+    "back": "36 cm. A square has 4 equal sides, so the perimeter is 4 times the side length: 4 times 9 is 36."
+  },
+  {
+    "id": 244,
+    "domain": "data_management_and_probability",
+    "front": "A scatterplot of ice cream sales against temperature rises from left to right. What does this tell you?",
+    "back": "There is a positive relationship. As the temperature goes up, the ice cream sales also go up, so the two values increase together."
+  },
+  {
+    "id": 245,
+    "domain": "number_sense_and_operations",
+    "front": "You put $1,000 in a savings account at 5% simple interest per year. How much interest do you earn in 3 years?",
+    "back": "$150. Simple interest is the principal times the rate times the time. The principal is $1,000, the rate is 0.05, and the time is 3 years: 1000 times 0.05 times 3 is $150."
+  },
+  {
+    "id": 246,
+    "domain": "patterns_and_relations",
+    "front": "Using the formula distance equals rate times time, how far do you travel if you go 60 km per hour for 2 hours?",
+    "back": "120 km. Substitute the known values into the formula: rate is 60 and time is 2, so 60 times 2 is 120."
+  },
+  {
+    "id": 247,
+    "domain": "geometry_and_measurement",
+    "front": "A photo is 12 cm wide and is enlarged by a scale factor of 2.5. How wide is the new photo?",
+    "back": "30 cm. A scale factor tells you how many times bigger the new size is. Multiply the original width by the scale factor: 12 times 2.5 is 30."
+  },
+  {
+    "id": 248,
+    "domain": "data_management_and_probability",
+    "front": "A line graph shows a temperature of 15 degrees at 9 am and 18 degrees at 10 am. By how many degrees did the temperature rise?",
+    "back": "3 degrees. Find the change by subtracting the earlier reading from the later reading: 18 minus 15 is 3."
+  },
+  {
+    "id": 249,
+    "domain": "number_sense_and_operations",
+    "front": "What is 1/2 divided by 1/4?",
+    "back": "2. To divide fractions, keep the first fraction, flip the second fraction, and then multiply: 1/2 times 4/1 is 4/2, which equals 2."
+  },
+  {
+    "id": 250,
+    "domain": "patterns_and_relations",
+    "front": "Share $100 between two people in the ratio 2 to 3. How much does each person get?",
+    "back": "$40 and $60. Add the ratio parts: 2 plus 3 is 5. Each part is $100 divided by 5, or $20. The first person gets 2 parts, so 2 times 20 is $40, and the second gets 3 parts, so 3 times 20 is $60."
+  },
+  {
+    "id": 251,
+    "domain": "geometry_and_measurement",
+    "front": "What is the perimeter of a rectangle that is 8 cm long and 5 cm wide?",
+    "back": "26 cm. Add all four sides: 8 + 5 + 8 + 5 = 26. Or double the sum of length and width: 2 x (8 + 5) = 26."
+  },
+  {
+    "id": 252,
+    "domain": "data_management_and_probability",
+    "front": "What is the mean of the numbers 4, 6, 8, and 10?",
+    "back": "7. Add the numbers to get 28, then divide by how many numbers there are: 28 divided by 4 = 7."
+  },
+  {
+    "id": 253,
+    "domain": "number_sense_and_operations",
+    "front": "Convert the fraction 3/8 to a decimal.",
+    "back": "0.375. To change a fraction to a decimal, divide the top number by the bottom number: 3 divided by 8 = 0.375."
+  },
+  {
+    "id": 254,
+    "domain": "patterns_and_relations",
+    "front": "The pattern is 5, 8, 11, 14. What is the next term, and what is the rule?",
+    "back": "The next term is 17. The rule is add 3 each time, so 14 + 3 = 17. Each term grows by the same amount, so it is an arithmetic pattern."
+  },
+  {
+    "id": 255,
+    "domain": "geometry_and_measurement",
+    "front": "What is the area of a rectangle that is 8 cm long and 5 cm wide?",
+    "back": "40 square centimetres. Area of a rectangle equals length times width: 8 x 5 = 40."
+  },
+  {
+    "id": 256,
+    "domain": "data_management_and_probability",
+    "front": "What is the median of the numbers 3, 8, 5, 9, and 2?",
+    "back": "5. Put the numbers in order: 2, 3, 5, 8, 9. The median is the middle value, which is 5."
+  },
+  {
+    "id": 257,
+    "domain": "number_sense_and_operations",
+    "front": "Convert the fraction 3/5 to a percent.",
+    "back": "60%. First divide 3 by 5 to get 0.6, then multiply by 100 to change the decimal to a percent: 0.6 x 100 = 60%."
+  },
+  {
+    "id": 258,
+    "domain": "patterns_and_relations",
+    "front": "The pattern is 2, 4, 6, 8. What rule gives the next term?",
+    "back": "Add 2 to the previous term, so 8 + 2 = 10. This is the list of even numbers, and each term is 2 more than the one before it."
+  },
+  {
+    "id": 259,
+    "domain": "geometry_and_measurement",
+    "front": "What is the area of a triangle with a base of 10 m and a height of 6 m?",
+    "back": "30 square metres. Area of a triangle equals one half times base times height: 1/2 x 10 x 6 = 30."
+  },
+  {
+    "id": 260,
+    "domain": "data_management_and_probability",
+    "front": "What is the mode of the list 2, 5, 5, 7, 5, 9?",
+    "back": "5. The mode is the number that appears most often. In this list 5 appears three times, more than any other number."
+  },
+  {
+    "id": 261,
+    "domain": "number_sense_and_operations",
+    "front": "What is 1/4 plus 1/6?",
+    "back": "5/12. The common denominator is 12. Convert 1/4 to 3/12 and 1/6 to 2/12, then add the tops: 3/12 + 2/12 = 5/12."
+  },
+  {
+    "id": 262,
+    "domain": "patterns_and_relations",
+    "front": "Solve for x: x + 7 = 15.",
+    "back": "x = 8. Subtract 7 from both sides to get x alone: 15 minus 7 = 8."
+  },
+  {
+    "id": 263,
+    "domain": "geometry_and_measurement",
+    "front": "What is the circumference of a circle with a diameter of 10 cm? Use 3.14 for pi.",
+    "back": "31.4 cm. Circumference equals pi times diameter: 3.14 x 10 = 31.4."
+  },
+  {
+    "id": 264,
+    "domain": "data_management_and_probability",
+    "front": "What is the range of the data set 4, 9, 2, 12, and 6?",
+    "back": "10. The range is the largest value minus the smallest value: 12 minus 2 = 10."
+  },
+  {
+    "id": 265,
+    "domain": "number_sense_and_operations",
+    "front": "What is 4 plus 3 times 2?",
+    "back": "10. Do the multiplication before the addition: 3 x 2 = 6, then 4 + 6 = 10. This is the order of operations, BEDMAS."
+  },
+  {
+    "id": 266,
+    "domain": "patterns_and_relations",
+    "front": "Solve for x: x + 3 + 4 = 12.",
+    "back": "x = 5. Add 3 and 4 to get 7, then subtract 7 from 12: 12 minus 7 = 5."
+  },
+  {
+    "id": 267,
+    "domain": "geometry_and_measurement",
+    "front": "What is the area of a circle with a radius of 3 cm? Use 3.14 for pi.",
+    "back": "28.26 square centimetres. Area equals pi times the radius squared: 3.14 x 3 x 3 = 3.14 x 9 = 28.26."
+  },
+  {
+    "id": 268,
+    "domain": "data_management_and_probability",
+    "front": "A data set has a mean of 50, then a very high value of 200 is added. Does the mean or the median change more?",
+    "back": "The mean changes more. The mean uses every value, so one very high number pulls it up. The median only moves to the middle value, so it is barely affected."
+  },
+  {
+    "id": 269,
+    "domain": "number_sense_and_operations",
+    "front": "What is 15% of 80?",
+    "back": "12. Change 15% to 0.15, then multiply: 0.15 x 80 = 12. Percent means out of 100."
+  },
+  {
+    "id": 270,
+    "domain": "patterns_and_relations",
+    "front": "Solve for x: 3x = 21.",
+    "back": "x = 7. Divide both sides by 3 to get x alone: 21 divided by 3 = 7."
+  },
+  {
+    "id": 271,
+    "domain": "geometry_and_measurement",
+    "front": "What is the volume of a box that is 4 cm long, 3 cm wide, and 2 cm tall?",
+    "back": "24 cubic centimetres. Volume of a rectangular prism equals length times width times height: 4 x 3 x 2 = 24."
+  },
+  {
+    "id": 272,
+    "domain": "data_management_and_probability",
+    "front": "A bag has 3 red balls and 2 blue balls. What is the probability of drawing a red ball?",
+    "back": "3/5, or 0.6. There are 5 balls total and 3 are red, so the probability is 3 out of 5, which is 3 divided by 5 = 0.6."
+  },
+  {
+    "id": 273,
+    "domain": "number_sense_and_operations",
+    "front": "A price rises from $50 to $60. What is the percent increase?",
+    "back": "20%. The increase is 10. Divide the increase by the original amount: 10 divided by 50 = 0.2, then multiply by 100 to get 20%."
+  },
+  {
+    "id": 274,
+    "domain": "patterns_and_relations",
+    "front": "Solve for x: 2x + 5 = 13.",
+    "back": "x = 4. Subtract 5 from 13 to get 8, then divide 8 by 2: 8 divided by 2 = 4."
+  },
+  {
+    "id": 275,
+    "domain": "geometry_and_measurement",
+    "front": "A right triangle has legs of 3 and 4. How long is the hypotenuse?",
+    "back": "5. Use Pythagoras: a squared plus b squared equals c squared. So 9 + 16 = 25, and the square root of 25 is 5."
+  },
+  {
+    "id": 276,
+    "domain": "data_management_and_probability",
+    "front": "If the probability of rain is 30%, what is the probability that it does not rain?",
+    "back": "70%. Rain and no rain are opposites, so they add to 100%: 100 minus 30 = 70."
+  },
+  {
+    "id": 277,
+    "domain": "number_sense_and_operations",
+    "front": "A $40 jacket is 25% off. What is the sale price?",
+    "back": "$30. The discount is 25% of 40, which is 0.25 x 40 = 10. Subtract the discount from the original price: 40 minus 10 = 30."
+  },
+  {
+    "id": 278,
+    "domain": "patterns_and_relations",
+    "front": "Speed equals distance divided by time. How fast is a car that travels 240 km in 3 hours?",
+    "back": "80 km/h. Divide the distance by the time: 240 divided by 3 = 80."
+  },
+  {
+    "id": 279,
+    "domain": "geometry_and_measurement",
+    "front": "A right triangle has a hypotenuse of 13 and one leg of 5. How long is the other leg?",
+    "back": "12. Use Pythagoras: c squared minus a squared. So 169 minus 25 = 144, and the square root of 144 is 12."
+  },
+  {
+    "id": 280,
+    "domain": "data_management_and_probability",
+    "front": "You flip a coin and roll a die. What is the probability of getting heads and a 6?",
+    "back": "1/12, which is about 0.08. The two events are independent, so multiply: 1/2 x 1/6 = 1/12."
+  },
+  {
+    "id": 281,
+    "domain": "number_sense_and_operations",
+    "front": "An item costs $20 before tax. With 13% sales tax, what is the total cost?",
+    "back": "$22.60. The tax is 13% of 20, which is 0.13 x 20 = 2.60. Add the tax to the price: 20 + 2.60 = 22.60."
+  },
+  {
+    "id": 282,
+    "domain": "patterns_and_relations",
+    "front": "Use the formula A = l x w. What is the area of a rectangle with a length of 9 m and a width of 4 m?",
+    "back": "36 square metres. Put the numbers into the formula: A = 9 x 4 = 36."
+  },
+  {
+    "id": 283,
+    "domain": "geometry_and_measurement",
+    "front": "A model car is 1/20 the size of the real car. If the real car is 400 cm long, how long is the model?",
+    "back": "20 cm. To scale down, divide the real length by the scale factor: 400 divided by 20 = 20."
+  },
+  {
+    "id": 284,
+    "domain": "data_management_and_probability",
+    "front": "A bag has 4 red, 3 blue, and 3 green marbles. What is the probability of drawing a red or a blue marble?",
+    "back": "7/10, or 0.7. Red and blue cannot happen at the same time, so add their counts: 4 + 3 = 7, out of 10 marbles total."
+  },
+  {
+    "id": 285,
+    "domain": "number_sense_and_operations",
+    "front": "You invest $500 at 4% simple interest for 1 year. How much interest do you earn?",
+    "back": "$20. Simple interest equals principal times rate times time: 500 x 0.04 x 1 = 20."
+  },
+  {
+    "id": 286,
+    "domain": "patterns_and_relations",
+    "front": "If 4 apples cost $2, how much do 10 apples cost?",
+    "back": "$5. Find the unit rate first: 2 divided by 4 = 0.50 per apple. Then multiply by 10: 0.50 x 10 = 5."
+  },
+  {
+    "id": 287,
+    "domain": "geometry_and_measurement",
+    "front": "How many millilitres are in 2.5 litres?",
+    "back": "2,500 mL. Each litre holds 1,000 mL, so multiply 2.5 by 1000 = 2,500."
+  },
+  {
+    "id": 288,
+    "domain": "data_management_and_probability",
+    "front": "A circle graph shows that 25% of students chose music. If there are 200 students, how many chose music?",
+    "back": "50 students. Take 25% of the total: 0.25 x 200 = 50."
+  },
+  {
+    "id": 289,
+    "domain": "number_sense_and_operations",
+    "front": "A meal costs $45 and you leave a 15% tip. How much is the tip?",
+    "back": "$6.75. Change 15% to 0.15 and multiply by the bill: 0.15 x 45 = 6.75."
+  },
+  {
+    "id": 290,
+    "domain": "patterns_and_relations",
+    "front": "The distance formula is d = r x t. Find t when d = 60 and r = 12.",
+    "back": "t = 5. Rearrange the formula to t = d divided by r, then divide: 60 divided by 12 = 5."
+  },
+  {
+    "id": 291,
+    "domain": "geometry_and_measurement",
+    "front": "What is the volume of a cylinder with a radius of 2 cm and a height of 5 cm? Use 3.14 for pi.",
+    "back": "62.8 cubic centimetres. Volume equals pi times radius squared times height: 3.14 x 2 x 2 x 5 = 3.14 x 4 x 5 = 62.8."
+  },
+  {
+    "id": 292,
+    "domain": "data_management_and_probability",
+    "front": "A bar graph shows Monday sold 10, Tuesday 20, and Wednesday 15. How many were sold in total?",
+    "back": "45. Add the three values: 10 + 20 + 15 = 45."
+  },
+  {
+    "id": 293,
+    "domain": "number_sense_and_operations",
+    "front": "A salesperson earns 5% commission on a $2,000 sale. How much commission do they earn?",
+    "back": "$100. Change 5% to 0.05 and multiply by the sale amount: 0.05 x 2000 = 100."
+  },
+  {
+    "id": 294,
+    "domain": "patterns_and_relations",
+    "front": "A number plus 6 equals 14. What is the number?",
+    "back": "8. Write the equation x + 6 = 14, then subtract 6 from both sides: 14 minus 6 = 8."
+  },
+  {
+    "id": 295,
+    "domain": "geometry_and_measurement",
+    "front": "What is the surface area of a box that is 4 cm long, 3 cm wide, and 2 cm tall?",
+    "back": "52 square centimetres. Add the areas of all six faces: 2 x (4 x 3) + 2 x (4 x 2) + 2 x (3 x 2) = 24 + 16 + 12 = 52."
+  },
+  {
+    "id": 296,
+    "domain": "data_management_and_probability",
+    "front": "A table shows town A had 120 people and town B had 80. How many more people does town A have?",
+    "back": "40 more people. Subtract the smaller from the larger: 120 minus 80 = 40."
+  },
+  {
+    "id": 297,
+    "domain": "number_sense_and_operations",
+    "front": "Convert the mixed number 2 3/4 to an improper fraction.",
+    "back": "11/4. Multiply the whole number by the denominator (2 x 4 = 8), add the numerator (8 + 3 = 11), and keep the denominator 4."
+  },
+  {
+    "id": 298,
+    "domain": "patterns_and_relations",
+    "front": "In a table, each input is doubled to make the output: 1 goes to 2, 2 goes to 4, 3 goes to 6. What output goes with input 5?",
+    "back": "10. Multiply the input by 2 to get the output: 5 x 2 = 10."
+  },
+  {
+    "id": 299,
+    "domain": "geometry_and_measurement",
+    "front": "A rectangle is 8 cm by 4 cm with a 2 cm by 2 cm square cut out. What is the area of the remaining shape?",
+    "back": "28 square centimetres. The rectangle area is 8 x 4 = 32, and the square is 2 x 2 = 4. Subtract: 32 minus 4 = 28."
+  },
+  {
+    "id": 300,
+    "domain": "data_management_and_probability",
+    "front": "A scatterplot shows that as years of study increase, test scores also rise. What kind of trend does this show?",
+    "back": "A positive trend. When both values go up together, the points slope upward, which shows a positive relationship between the two."
+  },
+  {
+    "id": 301,
+    "domain": "number_sense_and_operations",
+    "front": "Write 40% as a fraction in lowest terms.",
+    "back": "The fraction is 2/5. A percent means out of 100, so write 40 over 100. Divide the top and bottom by the greatest common factor, which is 20, to get 40/100 = 2/5."
+  },
+  {
+    "id": 302,
+    "domain": "geometry_and_measurement",
+    "front": "A square has a side length of 6 cm. What is its perimeter?",
+    "back": "The perimeter is 24 cm. A square has four equal sides, so multiply the side by 4: 6 x 4 = 24 cm. Perimeter is the distance all the way around a shape."
+  },
+  {
+    "id": 303,
+    "domain": "data_management_and_probability",
+    "front": "A student scored 70, 80, 25, and 85 on four tests. What is the mean score?",
+    "back": "The mean is 65. Add the scores (70 + 80 + 25 + 85 = 260), then divide by how many tests there are, which is 4: 260 divided by 4 = 65. The low score of 25 pulls the mean down."
+  },
+  {
+    "id": 304,
+    "domain": "number_sense_and_operations",
+    "front": "Evaluate 5 + 2 to the power of 2 times 3. Show the order of operations.",
+    "back": "The answer is 17. First do the power: 2 squared = 4. Then do the multiplication: 4 x 3 = 12. Finally do the addition: 5 + 12 = 17."
+  },
+  {
+    "id": 305,
+    "domain": "geometry_and_measurement",
+    "front": "A parallelogram has a base of 9 cm and a height of 4 cm. What is its area?",
+    "back": "The area is 36 square cm. Use the formula area = base x height: 9 x 4 = 36. The height must be the perpendicular distance from the base to the top side."
+  },
+  {
+    "id": 306,
+    "domain": "data_management_and_probability",
+    "front": "The numbers are 12, 7, 15, and 9. What is the median?",
+    "back": "The median is 10.5. Put the numbers in order: 7, 9, 12, 15. With an even count, average the two middle numbers: (9 + 12) divided by 2 = 10.5."
+  },
+  {
+    "id": 307,
+    "domain": "number_sense_and_operations",
+    "front": "A jacket costs $40 and is 30% off. What is the sale price?",
+    "back": "The sale price is $28. The discount is 30% of $40, or 0.30 x 40 = $12. Subtract the discount from the original price: $40 - $12 = $28."
+  },
+  {
+    "id": 308,
+    "domain": "geometry_and_measurement",
+    "front": "A box is 6 cm long, 4 cm wide, and 3 cm tall. What is its volume?",
+    "back": "The volume is 72 cubic cm. Multiply length by width by height: 6 x 4 x 3 = 72. Volume measures how much space the box takes up."
+  },
+  {
+    "id": 309,
+    "domain": "data_management_and_probability",
+    "front": "A circle graph has four sections of 30%, 40%, 20%, and one unknown section. What percent is the unknown section?",
+    "back": "The unknown section is 10%. A circle graph always adds to 100%. Add the known sections (30 + 40 + 20 = 90), then subtract from 100: 100 - 90 = 10."
+  },
+  {
+    "id": 310,
+    "domain": "number_sense_and_operations",
+    "front": "Write the improper fraction 13/4 as a mixed number.",
+    "back": "The mixed number is 3 1/4. Divide the numerator (top) by the denominator (bottom): 13 divided by 4 = 3 with a remainder of 1. The 3 is the whole number, the 1 becomes the new numerator, and the denominator stays 4."
+  },
+  {
+    "id": 311,
+    "domain": "geometry_and_measurement",
+    "front": "What is the area of a circle with a radius of 6 cm? Use pi = 3.14.",
+    "back": "The area is 113.04 square cm. Use area = pi x radius squared: 3.14 x 6 x 6 = 3.14 x 36 = 113.04. The radius is the distance from the centre to the edge of the circle."
+  },
+  {
+    "id": 312,
+    "domain": "data_management_and_probability",
+    "front": "In a class of 25 students, 10 play soccer. If one student is chosen at random, what is the probability they play soccer?",
+    "back": "The probability is 2/5. Probability = favourable outcomes divided by total outcomes, so 10 out of 25. Reduce the fraction by dividing top and bottom by 5: 10/25 = 2/5."
+  },
+  {
+    "id": 313,
+    "domain": "number_sense_and_operations",
+    "front": "A meal costs $50 before tax, and sales tax is 15%. What is the total cost?",
+    "back": "The total is $57.50. The tax is 15% of $50, or 0.15 x 50 = $7.50. Add the tax to the original price: $50 + $7.50 = $57.50."
+  },
+  {
+    "id": 314,
+    "domain": "geometry_and_measurement",
+    "front": "A right triangle has legs of 6 cm and 8 cm. How long is the hypotenuse?",
+    "back": "The hypotenuse is 10 cm. Use the Pythagorean theorem: leg squared + leg squared = hypotenuse squared. 6 squared = 36 and 8 squared = 64, so 36 + 64 = 100. The square root of 100 is 10."
+  },
+  {
+    "id": 315,
+    "domain": "data_management_and_probability",
+    "front": "You flip a coin and roll a six-sided die. What is the probability of getting tails and a 3?",
+    "back": "The probability is 1/12. The two events are independent, so multiply their separate chances: 1/2 x 1/6 = 1/12. Independent events do not affect each other."
+  },
+  {
+    "id": 316,
+    "domain": "number_sense_and_operations",
+    "front": "Put the integers -5, 2, -1, and 0 in order from smallest to largest.",
+    "back": "The order is -5, -1, 0, 2. On a number line, a negative number to the left is smaller, so -5 is the smallest and -1 comes before 0. Zero is bigger than any negative number but smaller than 2."
+  },
+  {
+    "id": 317,
+    "domain": "geometry_and_measurement",
+    "front": "A circle has a diameter of 12 cm. What is its circumference? Use pi = 3.14.",
+    "back": "The circumference is 37.68 cm. Use circumference = pi x diameter: 3.14 x 12 = 37.68. The diameter is the distance across the circle through the centre."
+  },
+  {
+    "id": 318,
+    "domain": "data_management_and_probability",
+    "front": "The chance of drawing a heart is 1/4 and the chance of drawing a spade is 1/4. What is the probability of drawing a heart or a spade?",
+    "back": "The probability is 1/2. A card cannot be both a heart and a spade, so the events are mutually exclusive. Add the chances: 1/4 + 1/4 = 2/4 = 1/2."
+  },
+  {
+    "id": 319,
+    "domain": "number_sense_and_operations",
+    "front": "A meal costs $45 and you leave a 20% tip. How much is the tip?",
+    "back": "The tip is $9. Convert 20% to a decimal (0.20), then multiply by the bill: 0.20 x 45 = 9. A tip is a percent of the bill added to the cost of the meal."
+  },
+  {
+    "id": 320,
+    "domain": "geometry_and_measurement",
+    "front": "A box is 5 cm long, 4 cm wide, and 3 cm tall. What is its surface area?",
+    "back": "The surface area is 94 square cm. The three different faces have areas 5 x 4 = 20, 5 x 3 = 15, and 4 x 3 = 12. Add them (20 + 15 + 12 = 47) and double for the opposite faces: 2 x 47 = 94."
+  },
+  {
+    "id": 321,
+    "domain": "data_management_and_probability",
+    "front": "The numbers are 4, 7, 4, 9, 7, and 4. What is the mode?",
+    "back": "The mode is 4. The mode is the value that appears most often, and 4 appears three times while 7 appears twice and 9 appears once."
+  },
+  {
+    "id": 322,
+    "domain": "number_sense_and_operations",
+    "front": "What is 3/4 of 160?",
+    "back": "The answer is 120. For a fraction of a number, divide by the denominator (bottom) then multiply by the numerator (top): 160 divided by 4 = 40, then 40 x 3 = 120."
+  },
+  {
+    "id": 323,
+    "domain": "geometry_and_measurement",
+    "front": "A shape is enlarged by a scale factor of 4. A side that was 3 cm long becomes how long?",
+    "back": "The new side is 12 cm. Multiply the original measurement by the scale factor: 3 x 4 = 12. A scale factor greater than 1 makes the shape larger, and every side is multiplied by the same factor."
+  },
+  {
+    "id": 324,
+    "domain": "data_management_and_probability",
+    "front": "The daily high temperatures were 22, 18, 25, and 20 degrees. What is the range?",
+    "back": "The range is 7 degrees. Subtract the smallest value from the largest: 25 - 18 = 7. The range shows how spread out the temperatures were."
+  },
+  {
+    "id": 325,
+    "domain": "number_sense_and_operations",
+    "front": "Write 3/5 as a percent.",
+    "back": "The percent is 60%. Divide the numerator (top) by the denominator (bottom) to get a decimal: 3 divided by 5 = 0.60. Then multiply by 100 to get a percent: 0.60 x 100 = 60%."
+  },
+  {
+    "id": 326,
+    "domain": "geometry_and_measurement",
+    "front": "A cylinder has a radius of 3 cm and a height of 5 cm. What is its volume? Use pi = 3.14.",
+    "back": "The volume is 141.3 cubic cm. Use volume = pi x radius squared x height: 3.14 x 3 x 3 x 5 = 3.14 x 45 = 141.3. The volume is the area of the circular end times the height."
+  },
+  {
+    "id": 327,
+    "domain": "data_management_and_probability",
+    "front": "A number puzzle says: pick a number, multiply it by 3, then subtract 4. If the result is 14, what was the number?",
+    "back": "The number is 6. Set up the equation 3x - 4 = 14. Add 4 to both sides to get 3x = 18, then divide both sides by 3 to get x = 6. Use a letter like x for the unknown number."
+  },
+  {
+    "id": 328,
+    "domain": "number_sense_and_operations",
+    "front": "Round the decimal 4.736 to the nearest hundredth.",
+    "back": "The rounded number is 4.74. The hundredths place is the second digit after the decimal point, which is 3. Look at the next digit, 6, and round 3 up to 4 because 6 is 5 or more."
+  },
+  {
+    "id": 329,
+    "domain": "geometry_and_measurement",
+    "front": "Convert 3.2 metres to centimetres.",
+    "back": "The answer is 320 cm. One metre equals 100 centimetres, so multiply 3.2 by 100: 3.2 x 100 = 320. Moving from a larger unit to a smaller one means multiplying."
+  },
+  {
+    "id": 330,
+    "domain": "data_management_and_probability",
+    "front": "A bar graph shows books read: Alex 5, Maria 8, Sam 3. What is the total, and who read the most?",
+    "back": "The total is 16 books, and Maria read the most. Add the three bar values: 5 + 8 + 3 = 16. The tallest bar belongs to Maria, whose value of 8 is the largest."
+  },
+  {
+    "id": 331,
+    "domain": "number_sense_and_operations",
+    "front": "What is the simple interest on $800 at 6% per year for 2 years?",
+    "back": "The interest is $96. Use interest = principal x rate x time: 800 x 0.06 x 2 = 96. The principal is the starting amount, the rate is written as a decimal, and the time is in years."
+  },
+  {
+    "id": 332,
+    "domain": "geometry_and_measurement",
+    "front": "Convert 2.5 kilograms to grams.",
+    "back": "The answer is 2500 grams. One kilogram equals 1000 grams, so multiply 2.5 by 1000: 2.5 x 1000 = 2500. A kilogram is a larger unit than a gram."
+  },
+  {
+    "id": 333,
+    "domain": "data_management_and_probability",
+    "front": "A histogram shows that 5 students scored between 60 and 69, and 8 students scored between 70 and 79. How many students are in these two bins together?",
+    "back": "There are 13 students. Add the counts from the two bins: 5 + 8 = 13. A histogram groups data into ranges, and each bar shows how many items fall in that range."
+  },
+  {
+    "id": 334,
+    "domain": "number_sense_and_operations",
+    "front": "Evaluate 10 - 2 x 3 using the order of operations.",
+    "back": "The answer is 4. Do the multiplication before the subtraction: 2 x 3 = 6. Then subtract: 10 - 6 = 4. Working left to right only would give the wrong answer of 24."
+  },
+  {
+    "id": 335,
+    "domain": "geometry_and_measurement",
+    "front": "An L-shaped figure is made of a 5 cm by 4 cm rectangle and a 3 cm by 2 cm rectangle. What is the total area?",
+    "back": "The total area is 26 square cm. Find the area of each rectangle and add them: 5 x 4 = 20, and 3 x 2 = 6. The total is 20 + 6 = 26."
+  },
+  {
+    "id": 336,
+    "domain": "data_management_and_probability",
+    "front": "A spinner has red, blue, and green sections. The chance of red is 0.4 and the chance of blue is 0.35. What is the chance of green?",
+    "back": "The chance of green is 0.25. The probabilities of all sections add to 1. Add red and blue (0.4 + 0.35 = 0.75), then subtract from 1: 1 - 0.75 = 0.25."
+  },
+  {
+    "id": 337,
+    "domain": "number_sense_and_operations",
+    "front": "A worker earns $16 per hour and works 8 hours a day for 5 days. What is the total pay?",
+    "back": "The total pay is $640. Find the total hours: 8 x 5 = 40 hours. Then multiply the hours by the hourly wage: 40 x 16 = 640. Pay is the wage per hour times the hours worked."
+  },
+  {
+    "id": 338,
+    "domain": "geometry_and_measurement",
+    "front": "A cube has a side length of 4 cm. What is its surface area?",
+    "back": "The surface area is 96 square cm. One face has area 4 x 4 = 16. A cube has six equal faces, so multiply by 6: 6 x 16 = 96."
+  },
+  {
+    "id": 339,
+    "domain": "data_management_and_probability",
+    "front": "A line graph shows a stock price of $15 on Monday and $21 on Friday. By how much did the price increase?",
+    "back": "The price increased by $6. Subtract the earlier value from the later value: 21 - 15 = 6. A rising line on a line graph shows a value going up over time."
+  },
+  {
+    "id": 340,
+    "domain": "number_sense_and_operations",
+    "front": "What is 1 1/2 + 2 1/4? Give the answer as a mixed number.",
+    "back": "The sum is 3 3/4. Change each mixed number to a fraction: 1 1/2 = 3/2 = 6/4, and 2 1/4 = 9/4. Add the numerators: 6 + 9 = 15, so 15/4 = 3 3/4."
+  },
+  {
+    "id": 341,
+    "domain": "geometry_and_measurement",
+    "front": "A cube has an edge length of 5 cm. What is its volume?",
+    "back": "The volume is 125 cubic cm. Multiply the edge by itself three times: 5 x 5 x 5 = 125. Volume is the space inside a 3D shape."
+  },
+  {
+    "id": 342,
+    "domain": "data_management_and_probability",
+    "front": "A scatterplot shows hours a phone is used against the amount of battery left. The points fall from left to right. What does the pattern show?",
+    "back": "The pattern shows that more hours of use are paired with less battery left. When points fall from left to right, the two values move in opposite directions. This is a negative relationship."
+  },
+  {
+    "id": 343,
+    "domain": "number_sense_and_operations",
+    "front": "A salesperson earns a 6% commission on a $1,500 sale. What is the commission?",
+    "back": "The commission is $90. Multiply the sale amount by the commission percent written as a decimal: 0.06 x 1500 = 90. Commission is a percent of the sale paid to the salesperson."
+  },
+  {
+    "id": 344,
+    "domain": "geometry_and_measurement",
+    "front": "A recipe needs 2 pounds of flour. Given that 1 pound = 16 ounces, how many ounces is that?",
+    "back": "The answer is 32 ounces. Multiply the number of pounds by the conversion rate: 2 x 16 = 32. Because the conversion is provided, multiply the starting amount by the rate."
+  },
+  {
+    "id": 345,
+    "domain": "data_management_and_probability",
+    "front": "A plumber logged these calls per day: 1, 0, 5, and 2. What is the mean number of calls per day?",
+    "back": "The mean is 2 calls per day. Add the four values (1 + 0 + 5 + 2 = 8), then divide by 4 days: 8 divided by 4 = 2. A value of 0 still counts as one of the days."
+  },
+  {
+    "id": 346,
+    "domain": "number_sense_and_operations",
+    "front": "A 4-pack of juice costs $6. What is the price per bottle?",
+    "back": "The price per bottle is $1.50. Divide the total cost by the number of bottles: 6 divided by 4 = 1.50. A unit price is the cost for one single item."
+  },
+  {
+    "id": 347,
+    "domain": "geometry_and_measurement",
+    "front": "A right triangle has a hypotenuse of 10 cm and one leg of 6 cm. How long is the other leg?",
+    "back": "The other leg is 8 cm. Use the Pythagorean theorem: leg squared + leg squared = hypotenuse squared, so the missing leg squared = 100 - 36 = 64. The square root of 64 is 8."
+  },
+  {
+    "id": 348,
+    "domain": "data_management_and_probability",
+    "front": "The numbers are 17, 12, 25, 19, and 10. What is the median?",
+    "back": "The median is 17. Put the numbers in order first: 10, 12, 17, 19, 25. With an odd count, the median is the middle number, which is 17."
+  },
+  {
+    "id": 349,
+    "domain": "number_sense_and_operations",
+    "front": "What is 6 minus negative 3?",
+    "back": "The answer is 9. Subtracting a negative is the same as adding the positive value: 6 - (-3) = 6 + 3 = 9. The two minus signs cancel out to become a plus."
+  },
+  {
+    "id": 350,
+    "domain": "geometry_and_measurement",
+    "front": "A map scale says 1 cm = 4 km. Two towns are 7 cm apart on the map. How far apart are they in real life?",
+    "back": "They are 28 km apart. Multiply the distance on the map by the scale factor: 7 x 4 = 28. The scale factor tells you how many kilometres each centimetre represents."
+  },
+  {
+    "id": 351,
+    "domain": "data_management_and_probability",
+    "front": "What is the mean of the numbers 5, 10, 15, and 20?",
+    "back": "The mean is 12.5. The mean is the average. Add all the numbers (5 + 10 + 15 + 20 = 50) and divide by how many there are, which is 4: 50 divided by 4 = 12.5."
+  },
+  {
+    "id": 352,
+    "domain": "number_sense_and_operations",
+    "front": "How do you write the decimal 0.35 as a fraction in simplest form?",
+    "back": "The fraction is 7/20. The decimal 0.35 is 35 hundredths, so write it as 35/100. Divide the top and bottom by 5, and 35 divided by 5 is 7 while 100 divided by 5 is 20."
+  },
+  {
+    "id": 353,
+    "domain": "geometry_and_measurement",
+    "front": "A rectangle is 12 m long and 5 m wide. What is its perimeter?",
+    "back": "The perimeter is 34 m. Perimeter is the distance around a shape. Add the length and width (12 + 5 = 17) and double the total to cover two of each side: 2 x 17 = 34."
+  },
+  {
+    "id": 354,
+    "domain": "data_management_and_probability",
+    "front": "The numbers are 3, 5, 7, and 9. What is the median?",
+    "back": "The median is 6. The list is already in order and has an even count, so find the two middle numbers, 5 and 7, and average them: (5 + 7) divided by 2 = 6."
+  },
+  {
+    "id": 355,
+    "domain": "number_sense_and_operations",
+    "front": "What is 1/4 plus 1/6? Show the common denominator.",
+    "back": "The sum is 5/12. Use a common denominator of 12, then rewrite each fraction: 1/4 = 3/12 and 1/6 = 2/12. Add the top numbers: 3 + 2 = 5, so the answer is 5/12."
+  },
+  {
+    "id": 356,
+    "domain": "geometry_and_measurement",
+    "front": "A square has a side length of 6 cm. What is its area?",
+    "back": "The area is 36 square cm. Area is the space inside a flat shape. For a square, multiply the side by itself: 6 x 6 = 36."
+  },
+  {
+    "id": 357,
+    "domain": "data_management_and_probability",
+    "front": "What is the mode of the data set 2, 4, 4, 4, and 7?",
+    "back": "The mode is 4. The mode is the value that appears most often in a list. The number 4 appears three times, which is more than any other value."
+  },
+  {
+    "id": 358,
+    "domain": "number_sense_and_operations",
+    "front": "How do you write the improper fraction 19/6 as a mixed number?",
+    "back": "The mixed number is 3 and 1/6. Divide the top by the bottom: 19 divided by 6 gives 3 with a remainder of 1. The 3 is the whole part, and the remainder 1 sits over the 6."
+  },
+  {
+    "id": 359,
+    "domain": "geometry_and_measurement",
+    "front": "A triangle has a base of 14 cm and a height of 6 cm. What is its area?",
+    "back": "The area is 42 square cm. The area of a triangle is one half times the base times the height: 0.5 x 14 x 6 = 42. The base and the height should meet at a right angle."
+  },
+  {
+    "id": 360,
+    "domain": "data_management_and_probability",
+    "front": "What is the range of the data set 12, 5, 20, and 9?",
+    "back": "The range is 15. The range is the largest value minus the smallest value. The largest is 20 and the smallest is 5, so 20 minus 5 = 15."
+  },
+  {
+    "id": 361,
+    "domain": "number_sense_and_operations",
+    "front": "What is 2/3 times 3/4? Simplify the answer.",
+    "back": "The product is 1/2. Multiply the top numbers (2 x 3 = 6) and the bottom numbers (3 x 4 = 12) to get 6/12. Divide the top and bottom by 6 to simplify to 1/2."
+  },
+  {
+    "id": 362,
+    "domain": "geometry_and_measurement",
+    "front": "A circle has a radius of 10 cm. Using pi as 3.14, what is its area?",
+    "back": "The area is 314 square cm. Use area = pi x radius squared: 3.14 x 10 x 10. Since 10 x 10 = 100, the working is 3.14 x 100 = 314."
+  },
+  {
+    "id": 363,
+    "domain": "data_management_and_probability",
+    "front": "A set of five test scores contains one very low outlier. Which measure of centre is affected more, the mean or the median?",
+    "back": "The mean is affected more. The mean is a total divided by the count, so a very low number drags the total down a lot. The median only finds the middle value, so it stays nearly the same. This is why the median is more reliable when one score is extreme."
+  },
+  {
+    "id": 364,
+    "domain": "number_sense_and_operations",
+    "front": "What is 2/5 divided by 4/5?",
+    "back": "The answer is 1/2. To divide by a fraction, flip the second one and multiply: 2/5 x 5/4. Multiply the tops (2 x 5 = 10) and the bottoms (5 x 4 = 20) to get 10/20, which simplifies to 1/2."
+  },
+  {
+    "id": 365,
+    "domain": "geometry_and_measurement",
+    "front": "A circle has a radius of 5 cm. Using pi as 3.14, what is its circumference?",
+    "back": "The circumference is 31.4 cm. Use circumference = 2 x pi x radius: 2 x 3.14 x 5. Multiply 2 x 3.14 = 6.28, then 6.28 x 5 = 31.4."
+  },
+  {
+    "id": 366,
+    "domain": "data_management_and_probability",
+    "front": "On a bar graph the bar labeled Shoes reaches 18 on the vertical count axis. How many shoes were counted?",
+    "back": "18 shoes. The height of a bar shows the value for that category. Since the Shoes bar reaches 18 on the count scale, there are 18 shoes."
+  },
+  {
+    "id": 367,
+    "domain": "number_sense_and_operations",
+    "front": "Evaluate 3 + 6 x (5 - 2) using the order of operations.",
+    "back": "The value is 21. Work inside the brackets first: 5 - 2 = 3. Then do the multiplication: 6 x 3 = 18. Finally add: 3 + 18 = 21."
+  },
+  {
+    "id": 368,
+    "domain": "geometry_and_measurement",
+    "front": "A right triangle has legs of 6 cm and 8 cm. How long is the hypotenuse?",
+    "back": "The hypotenuse is 10 cm. Use the Pythagorean theorem: leg squared plus leg squared equals hypotenuse squared. 6 squared = 36 and 8 squared = 64, and 36 + 64 = 100. The square root of 100 is 10."
+  },
+  {
+    "id": 369,
+    "domain": "data_management_and_probability",
+    "front": "What does a histogram show, and how is it different from a bar graph?",
+    "back": "A histogram shows how often data values fall into equal ranges, called bins. The bars touch each other because the data is continuous. A bar graph has separate bars with gaps because each bar is a different category."
+  },
+  {
+    "id": 370,
+    "domain": "number_sense_and_operations",
+    "front": "How do you write 20% as a fraction in simplest form?",
+    "back": "The fraction is 1/5. Percent means out of 100, so 20% is 20/100. Divide the top and bottom by 20, and 20 divided by 20 is 1 while 100 divided by 20 is 5."
+  },
+  {
+    "id": 371,
+    "domain": "geometry_and_measurement",
+    "front": "A cube has an edge length of 4 cm. What is its surface area?",
+    "back": "The surface area is 96 square cm. A cube has 6 identical square faces. Each face is 4 x 4 = 16 square cm, so multiply by 6: 6 x 16 = 96."
+  },
+  {
+    "id": 372,
+    "domain": "data_management_and_probability",
+    "front": "A line graph shows March sales of 40 and April sales of 65. By how much did sales increase from March to April?",
+    "back": "Sales increased by 25. Read the value at each month from the vertical axis, then subtract the smaller from the larger: 65 minus 40 = 25."
+  },
+  {
+    "id": 373,
+    "domain": "number_sense_and_operations",
+    "front": "What is 30% of 200?",
+    "back": "The answer is 60. Write 30% as the decimal 0.30, then multiply by 200: 0.30 x 200 = 60. You can also think of 30% as 30 per 100, so 30 x 2 = 60."
+  },
+  {
+    "id": 374,
+    "domain": "geometry_and_measurement",
+    "front": "A box is 6 cm long, 5 cm wide, and 3 cm tall. What is its surface area?",
+    "back": "The surface area is 126 square cm. The three different face areas are 6 x 5 = 30, 6 x 3 = 18, and 5 x 3 = 15. Add them (30 + 18 + 15 = 63) and double for both sides: 2 x 63 = 126."
+  },
+  {
+    "id": 375,
+    "domain": "data_management_and_probability",
+    "front": "On a circle graph one sector is labeled 40%. What fraction of the whole does that sector represent?",
+    "back": "The sector represents 2/5 of the whole. Percent means out of 100, so 40% is 40/100. Divide the top and bottom by 20 to get 2/5."
+  },
+  {
+    "id": 376,
+    "domain": "number_sense_and_operations",
+    "front": "A jacket costs $80 and is on sale for 25% off. What is the sale price?",
+    "back": "The sale price is $60. The discount is 25% of $80, or 0.25 x 80 = $20. Take the discount off the original price: $80 - $20 = $60."
+  },
+  {
+    "id": 377,
+    "domain": "geometry_and_measurement",
+    "front": "A rectangular prism is 8 cm long, 4 cm wide, and 2 cm tall. What is its volume?",
+    "back": "The volume is 64 cubic cm. Volume is the space an object takes up. Multiply the length by the width by the height: 8 x 4 x 2 = 64."
+  },
+  {
+    "id": 378,
+    "domain": "data_management_and_probability",
+    "front": "A scatterplot of ice cream sales versus temperature shows points rising from lower left to upper right. What sort of relationship is this?",
+    "back": "This is a positive relationship. As the temperature goes up, the ice cream sales also go up. When two values rise together, the relationship is called positive."
+  },
+  {
+    "id": 379,
+    "domain": "number_sense_and_operations",
+    "front": "A meal costs $40 before tax. Sales tax is 13%. What is the total cost?",
+    "back": "The total is $45.20. The tax is 13% of $40, or 0.13 x 40 = $5.20. Add the tax to the original price: $40 + $5.20 = $45.20."
+  },
+  {
+    "id": 380,
+    "domain": "geometry_and_measurement",
+    "front": "A cube has an edge length of 5 cm. What is its volume?",
+    "back": "The volume is 125 cubic cm. For a cube, multiply the edge by itself three times: 5 x 5 = 25, then 25 x 5 = 125."
+  },
+  {
+    "id": 381,
+    "domain": "data_management_and_probability",
+    "front": "A fair spinner has 4 equal sections: red, blue, green, and yellow. What is the probability of landing on green?",
+    "back": "The probability is 1/4. There is one green section out of four equal sections. Probability equals the number of favourable outcomes divided by the total possible outcomes."
+  },
+  {
+    "id": 382,
+    "domain": "number_sense_and_operations",
+    "front": "A restaurant bill is $60. What is a 15% tip?",
+    "back": "The tip is $9. Write 15% as the decimal 0.15, then multiply by the bill: 0.15 x 60 = 9. A tip is a percent of the bill paid to the server."
+  },
+  {
+    "id": 383,
+    "domain": "geometry_and_measurement",
+    "front": "A cylinder has a radius of 3 cm and a height of 5 cm. Using pi as 3.14, what is its volume?",
+    "back": "The volume is 141.3 cubic cm. Use volume = pi x radius squared x height: 3.14 x 9 x 5. First 3.14 x 9 = 28.26, then 28.26 x 5 = 141.3."
+  },
+  {
+    "id": 384,
+    "domain": "data_management_and_probability",
+    "front": "The probability that a customer makes a purchase is 0.3. What is the probability that the customer does not make a purchase?",
+    "back": "The probability is 0.7. The chance of an event happening and the chance of it not happening must add to 1. Subtract the given probability from 1: 1 minus 0.3 = 0.7."
+  },
+  {
+    "id": 385,
+    "domain": "number_sense_and_operations",
+    "front": "A salesperson earns an 8% commission on a $1200 sale. How much commission is earned?",
+    "back": "The commission is $96. Convert 8% to the decimal 0.08, then multiply by the sale amount: 0.08 x 1200 = 96. Commission is a percent of the sale paid to the salesperson."
+  },
+  {
+    "id": 386,
+    "domain": "geometry_and_measurement",
+    "front": "A photo is enlarged by a scale factor of 2.5. If an original side is 6 cm, what is the new length?",
+    "back": "The new length is 15 cm. Multiply the original measurement by the scale factor: 6 x 2.5 = 15. A scale factor greater than 1 enlarges the shape, and every side is multiplied by the same factor."
+  },
+  {
+    "id": 387,
+    "domain": "data_management_and_probability",
+    "front": "A coin is tossed and a fair 4-section spinner is spun. What is the probability of getting a head and landing on the red section?",
+    "back": "The probability is 1/8. These are independent events, so multiply their separate chances. The chance of a head is 1/2 and the chance of red is 1/4. Multiply: 1/2 x 1/4 = 1/8."
+  },
+  {
+    "id": 388,
+    "domain": "number_sense_and_operations",
+    "front": "What simple interest is earned on $400 at 5% per year for 3 years?",
+    "back": "The interest is $60. Use interest = principal x rate x time: 400 x 0.05 x 3. Multiply 400 x 0.05 = 20, then 20 x 3 = 60. The principal is the starting amount."
+  },
+  {
+    "id": 389,
+    "domain": "geometry_and_measurement",
+    "front": "How many millilitres are in 2.5 litres?",
+    "back": "The answer is 2500 mL. One litre equals 1000 millilitres, so multiply the litres by 1000: 2.5 x 1000 = 2500. Moving from a larger unit to a smaller one means multiplying."
+  },
+  {
+    "id": 390,
+    "domain": "data_management_and_probability",
+    "front": "A bag has 5 red, 3 blue, and 2 green marbles. What is the probability of drawing a red or a green marble?",
+    "back": "The probability is 7/10. These two results cannot happen at the same time, so add the counts and divide by the total. There are 5 + 2 = 7 red or green marbles out of 10 total, so 7/10."
+  },
+  {
+    "id": 391,
+    "domain": "number_sense_and_operations",
+    "front": "What is 3 minus 8? Explain using a number line.",
+    "back": "The answer is -5. Start at 3 and move 8 spaces to the left, which crosses zero by 5 and lands at negative 5. Subtracting a bigger number from a smaller one gives a negative result."
+  },
+  {
+    "id": 392,
+    "domain": "geometry_and_measurement",
+    "front": "How many centimetres are in 6.5 metres?",
+    "back": "The answer is 650 cm. One metre equals 100 centimetres, so multiply the metres by 100: 6.5 x 100 = 650. Each metre is made of 100 centimetres."
+  },
+  {
+    "id": 393,
+    "domain": "data_management_and_probability",
+    "front": "A table shows books read per day: Monday 4, Tuesday 6, Wednesday 5. What is the total books read and the mean per day?",
+    "back": "The total is 15, and the mean is 5 per day. Add the three daily counts: 4 + 6 + 5 = 15. Divide the total by the number of days, 3, to get the mean: 15 divided by 3 = 5."
+  },
+  {
+    "id": 394,
+    "domain": "number_sense_and_operations",
+    "front": "Evaluate the integer expression -2 + 4 x 3 using order of operations.",
+    "back": "The value is 10. Do the multiplication first: 4 x 3 = 12. Then add it to the negative number: -2 + 12 = 10. Following the order of operations is what gives the correct result."
+  },
+  {
+    "id": 395,
+    "domain": "geometry_and_measurement",
+    "front": "A shape is a 6 cm by 4 cm rectangle with a 2 cm by 2 cm square attached. What is the total area?",
+    "back": "The total area is 28 square cm. Find each part separately, then add them. The rectangle is 6 x 4 = 24, and the square is 2 x 2 = 4. Add them: 24 + 4 = 28."
+  },
+  {
+    "id": 396,
+    "domain": "data_management_and_probability",
+    "front": "A bag has 4 red and 6 blue marbles. What is the probability of drawing a blue marble?",
+    "back": "The probability is 3/5. There are 6 blue marbles out of 10 total (4 + 6 = 10). Write 6/10, then divide the top and bottom by 2 to get 3/5."
+  },
+  {
+    "id": 397,
+    "domain": "number_sense_and_operations",
+    "front": "Solve for x: 3/4 = x/12.",
+    "back": "x equals 9. Cross multiply the two fractions: 3 x 12 = 4 x x, so 36 = 4x. Divide both sides by 4 to get x = 9."
+  },
+  {
+    "id": 398,
+    "domain": "geometry_and_measurement",
+    "front": "A box has a volume of 60 cubic cm, a length of 5 cm, and a width of 3 cm. What is its height?",
+    "back": "The height is 4 cm. Volume equals length x width x height, so 60 = 5 x 3 x height, or 60 = 15 x height. Divide both sides by 15: 60 divided by 15 = 4."
+  },
+  {
+    "id": 399,
+    "domain": "data_management_and_probability",
+    "front": "A number is doubled and then 4 is added, giving 18. What is the number?",
+    "back": "The number is 7. Let the unknown number be x, so the puzzle says 2x + 4 = 18. Subtract 4 from both sides to get 2x = 14, then divide by 2: x = 7."
+  },
+  {
+    "id": 400,
+    "domain": "number_sense_and_operations",
+    "front": "An employee earns $18 per hour and works 35 hours in one week. What is the weekly pay?",
+    "back": "The weekly pay is $630. Multiply the hourly rate by the hours worked: $18 x 35 = $630. Wages are the rate per hour times the number of hours worked."
+  },
+  {
+    "id": 401,
+    "domain": "geometry_and_measurement",
+    "front": "A rectangle is 6 cm long and 4 cm wide. What is its perimeter?",
+    "back": "The perimeter is 20 cm. Add the length and the width and double the total: 2 x (6 + 4) = 2 x 10 = 20 cm. Perimeter is the total distance around the shape."
+  },
+  {
+    "id": 402,
+    "domain": "data_management_and_probability",
+    "front": "The numbers are 12, 15, 18, 21, and 24. What is the mean?",
+    "back": "The mean, or average, is 18. Add all the numbers: 12 + 15 + 18 + 21 + 24 = 90, then divide by how many numbers there are: 90 divided by 5 = 18."
+  },
+  {
+    "id": 403,
+    "domain": "number_sense_and_operations",
+    "front": "Add 1/4 and 1/6. Show the steps.",
+    "back": "The sum is 5/12. Use a common denominator of 12: 1/4 = 3/12 and 1/6 = 2/12. Add the numerators: 3 + 2 = 5, so the answer is 5/12."
+  },
+  {
+    "id": 404,
+    "domain": "geometry_and_measurement",
+    "front": "A rectangle is 7 m long and 5 m wide. What is its area?",
+    "back": "The area is 35 square m. Multiply the length by the width: 7 x 5 = 35. Area is the space inside the shape, so the units are squared (m squared)."
+  },
+  {
+    "id": 405,
+    "domain": "data_management_and_probability",
+    "front": "The numbers are 2, 4, 6, and 8. What is the median?",
+    "back": "The median is 5. Put the numbers in order: 2, 4, 6, 8. With an even count, the median is the midpoint of the two middle numbers: (4 + 6) divided by 2 = 5."
+  },
+  {
+    "id": 406,
+    "domain": "number_sense_and_operations",
+    "front": "Write 75% as a decimal and as a fraction in lowest terms.",
+    "back": "75% is 0.75 as a decimal and 3/4 as a fraction. To change a percent to a decimal, divide by 100: 75 divided by 100 = 0.75. The decimal 0.75 is 75/100, which lowers to 3/4."
+  },
+  {
+    "id": 407,
+    "domain": "geometry_and_measurement",
+    "front": "A triangle has a base of 12 cm and a height of 5 cm. What is its area?",
+    "back": "The area is 30 square cm. Use one half x base x height: 0.5 x 12 x 5 = 30. The base and height must be at a right angle to each other."
+  },
+  {
+    "id": 408,
+    "domain": "data_management_and_probability",
+    "front": "The numbers are 3, 7, 7, 8, and 9. What is the mode?",
+    "back": "The mode is 7. The mode is the value that appears most often. The number 7 appears twice and every other number appears once, so the mode is 7."
+  },
+  {
+    "id": 409,
+    "domain": "number_sense_and_operations",
+    "front": "What is 20% of 150?",
+    "back": "20% of 150 is 30. Change 20% to 0.20, then multiply: 0.20 x 150 = 30. You can also take one fifth of 150 because 20% is one fifth, and 150 divided by 5 = 30."
+  },
+  {
+    "id": 410,
+    "domain": "geometry_and_measurement",
+    "front": "A circle has a radius of 7 cm. What is its circumference? Use pi = 22/7.",
+    "back": "The circumference is 44 cm. The formula is 2 x pi x radius, so 2 x (22/7) x 7. The 7 in the denominator cancels the radius 7, leaving 2 x 22 = 44 cm."
+  },
+  {
+    "id": 411,
+    "domain": "data_management_and_probability",
+    "front": "The numbers are 4, 9, 1, and 7. What is the range?",
+    "back": "The range is 8. The range is the biggest value minus the smallest value. The largest is 9 and the smallest is 1, so 9 minus 1 = 8."
+  },
+  {
+    "id": 412,
+    "domain": "number_sense_and_operations",
+    "front": "Work out 6 + 4 x 2 minus 3 using the order of operations.",
+    "back": "The answer is 11. Do the multiplication first: 4 x 2 = 8. Then work left to right: 6 + 8 = 14, then 14 minus 3 = 11. Multiplication comes before addition and subtraction."
+  },
+  {
+    "id": 413,
+    "domain": "geometry_and_measurement",
+    "front": "A circle has a radius of 3 m. What is its area? Use pi = 3.14.",
+    "back": "The area is 28.26 square m. The formula is pi x radius squared, so 3.14 x 3 x 3. Radius squared is 9 (3 x 3), and 3.14 x 9 = 28.26."
+  },
+  {
+    "id": 414,
+    "domain": "data_management_and_probability",
+    "front": "The data set is 2, 4, 6, 8, and 10. How does adding the outlier 50 affect the mean?",
+    "back": "Adding 50 pulls the mean up a lot. The original mean is 6 (30 divided by 5). With 50 included, the sum is 80 and the count is 6, so the mean becomes about 13.3. An outlier pulls the mean toward itself."
+  },
+  {
+    "id": 415,
+    "domain": "number_sense_and_operations",
+    "front": "A jacket costs $80 and is on sale for 30% off. What is the sale price?",
+    "back": "The sale price is $56. Find the discount: 0.30 x 80 = $24. Subtract it from the original price: 80 minus 24 = $56."
+  },
+  {
+    "id": 416,
+    "domain": "geometry_and_measurement",
+    "front": "A right triangle has legs of 3 and 4. What is the hypotenuse?",
+    "back": "The hypotenuse is 5. Use the Pythagorean theorem: a squared + b squared = c squared, so 9 + 16 = 25. The square root of 25 is 5."
+  },
+  {
+    "id": 417,
+    "domain": "data_management_and_probability",
+    "front": "Most house prices are close together but one house sells for a huge amount. Which measure best shows a typical price?",
+    "back": "The median is the better measure. One extremely high price is an outlier that pulls the mean upward, so the mean stops representing the group. The median is the middle price and is not dragged by that one value."
+  },
+  {
+    "id": 418,
+    "domain": "number_sense_and_operations",
+    "front": "A $50 item carries 13% sales tax. What is the total cost?",
+    "back": "The total is $56.50. Find the tax: 0.13 x 50 = $6.50. Add it to the price: 50 + 6.50 = $56.50."
+  },
+  {
+    "id": 419,
+    "domain": "geometry_and_measurement",
+    "front": "A box is 4 cm long, 3 cm wide, and 2 cm tall. What is its volume?",
+    "back": "The volume is 24 cubic cm. Multiply length x width x height: 4 x 3 x 2 = 24. Volume is the space inside a 3D shape, so the units are cubed."
+  },
+  {
+    "id": 420,
+    "domain": "data_management_and_probability",
+    "front": "On a bar graph, the bar for apples is twice as tall as the bar for oranges. What does this mean?",
+    "back": "It means there are twice as many apples as oranges. In a bar graph, the height of each bar shows the amount for that category, so a taller bar always means a bigger value."
+  },
+  {
+    "id": 421,
+    "domain": "number_sense_and_operations",
+    "front": "A restaurant bill is $40 and you leave a 15% tip. How much is the tip?",
+    "back": "The tip is $6. Change 15% to 0.15 and multiply: 0.15 x 40 = $6. You can also take 10% ($4) plus half of that ($2) to get $6."
+  },
+  {
+    "id": 422,
+    "domain": "geometry_and_measurement",
+    "front": "A cube has edges that are 5 cm long. What is its surface area?",
+    "back": "The surface area is 150 square cm. One face has area 5 x 5 = 25. A cube has 6 faces, so 6 x 25 = 150. Surface area is the total area of all the outer faces."
+  },
+  {
+    "id": 423,
+    "domain": "data_management_and_probability",
+    "front": "What does a histogram show, and why do its bars touch?",
+    "back": "A histogram shows how often values fall into continuous intervals or bins. The bars touch because the intervals cover a continuous range with no gaps between them. This is different from a bar graph, which compares separate categories."
+  },
+  {
+    "id": 424,
+    "domain": "number_sense_and_operations",
+    "front": "Write 17/5 as a mixed number.",
+    "back": "17/5 is 3 and 2/5. Divide 17 by 5; 5 goes into 17 three times (15) with a remainder of 2. The whole part is 3 and the remainder 2 becomes the numerator over 5."
+  },
+  {
+    "id": 425,
+    "domain": "geometry_and_measurement",
+    "front": "Convert 2.5 m to centimetres (cm).",
+    "back": "2.5 m is 250 cm. There are 100 cm in 1 m, so multiply by 100: 2.5 x 100 = 250 cm. When moving from a larger unit to a smaller one, you multiply."
+  },
+  {
+    "id": 426,
+    "domain": "data_management_and_probability",
+    "front": "A circle graph has sections of 25%, 40%, and 35%. Is this valid?",
+    "back": "Yes, it is valid. A circle graph shows parts of one whole, so the percentages must add to 100%. Here 25 + 40 + 35 = 100%, so it divides the circle correctly."
+  },
+  {
+    "id": 427,
+    "domain": "number_sense_and_operations",
+    "front": "A car travels 240 km in 3 hours. What is its unit rate in km per hour?",
+    "back": "The unit rate is 80 km per hour. Divide the distance by the time: 240 divided by 3 = 80. A unit rate tells you the amount for one unit, here one hour."
+  },
+  {
+    "id": 428,
+    "domain": "geometry_and_measurement",
+    "front": "Convert 3 L to millilitres (mL).",
+    "back": "3 L is 3000 mL. There are 1000 mL in 1 L, so multiply by 1000: 3 x 1000 = 3000 mL. Litres and millilitres both measure volume."
+  },
+  {
+    "id": 429,
+    "domain": "data_management_and_probability",
+    "front": "On a scatterplot, the points go up from the left toward the right. What does this tell you?",
+    "back": "It shows a positive relationship. As the value on the horizontal axis increases, the value on the vertical axis also tends to increase. The points are read for the trend, not for a slope."
+  },
+  {
+    "id": 430,
+    "domain": "number_sense_and_operations",
+    "front": "Solve the proportion 3/4 = x/12 for x.",
+    "back": "x = 9. Cross multiply: 3 x 12 = 4 x x, so 36 = 4x. Divide both sides by 4 to get x = 9."
+  },
+  {
+    "id": 431,
+    "domain": "geometry_and_measurement",
+    "front": "A photo 4 cm wide is enlarged to 12 cm wide. What is the scale factor?",
+    "back": "The scale factor is 3. Divide the new length by the original: 12 divided by 4 = 3. Every measurement on the enlarged copy is 3 times the original. Similar shapes share the same scale factor."
+  },
+  {
+    "id": 432,
+    "domain": "data_management_and_probability",
+    "front": "One fair die is rolled. What is the probability of rolling a 4?",
+    "back": "The probability is 1/6. Probability is favorable outcomes divided by total outcomes. There is one 4 on the die and 6 sides in total, so 1 out of 6."
+  },
+  {
+    "id": 433,
+    "domain": "number_sense_and_operations",
+    "front": "Work out (-7) + 4 and (-7) minus 4.",
+    "back": "(-7) + 4 = -3, and (-7) minus 4 = -11. When adding a positive to a negative, subtract the smaller from the larger and keep the sign of the larger, so 7 minus 4 = 3 with a negative sign. When subtracting a positive, add the absolute values and keep the negative sign: 7 + 4 = 11, so -11."
+  },
+  {
+    "id": 434,
+    "domain": "geometry_and_measurement",
+    "front": "A cylinder has a radius of 2 cm and a height of 5 cm. What is its volume? Use pi = 3.14.",
+    "back": "The volume is 62.8 cubic cm. Use area of the base x height: pi x radius squared x height = 3.14 x 4 x 5. Radius squared is 4, and 3.14 x 4 x 5 = 62.8."
+  },
+  {
+    "id": 435,
+    "domain": "data_management_and_probability",
+    "front": "A coin is tossed and a die is rolled. What is the probability of heads and a 6?",
+    "back": "The probability is 1/12. These are independent events, so multiply the chances. Heads is 1/2 and rolling a 6 is 1/6, and 1/2 x 1/6 = 1/12."
+  },
+  {
+    "id": 436,
+    "domain": "number_sense_and_operations",
+    "front": "A salesperson earns 8% commission on $2,500 in sales. What is the commission?",
+    "back": "The commission is $200. Change 8% to 0.08 and multiply by the sales: 0.08 x 2500 = $200. Commission is a percentage of the total sales amount."
+  },
+  {
+    "id": 437,
+    "domain": "geometry_and_measurement",
+    "front": "An 8 m by 5 m rectangle has a 3 m by 2 m rectangle cut out of a corner. What is the remaining area?",
+    "back": "The remaining area is 34 square m. The full rectangle is 8 x 5 = 40, and the cut-out is 3 x 2 = 6. Subtract them: 40 minus 6 = 34. For a composite shape, break it into parts and combine the areas."
+  },
+  {
+    "id": 438,
+    "domain": "data_management_and_probability",
+    "front": "On one roll of a fair die, what is the probability of rolling a 2 or a 5?",
+    "back": "The probability is 1/3. A 2 and a 5 cannot both happen on one roll, so they are mutually exclusive. Add the chances: 1/6 + 1/6 = 2/6, which lowers to 1/3."
+  },
+  {
+    "id": 439,
+    "domain": "number_sense_and_operations",
+    "front": "Find the simple interest on $1,000 at 5% per year for 2 years.",
+    "back": "The simple interest is $100. Use interest = principal x rate x time. The rate as a decimal is 0.05, so 1000 x 0.05 x 2 = 100. Simple interest is paid only on the original amount."
+  },
+  {
+    "id": 440,
+    "domain": "geometry_and_measurement",
+    "front": "A square has an area of 49 square cm. How long is each side?",
+    "back": "Each side is 7 cm. For a square, area = side x side, so find a number times itself that equals 49. The square root of 49 is 7, because 7 x 7 = 49."
+  },
+  {
+    "id": 441,
+    "domain": "data_management_and_probability",
+    "front": "The probability of rain is 0.3. What is the probability of no rain?",
+    "back": "The probability of no rain is 0.7. Rain and no rain are complements that cover all outcomes. Subtract the given chance from 1: 1 minus 0.3 = 0.7."
+  },
+  {
+    "id": 442,
+    "domain": "number_sense_and_operations",
+    "front": "A worker earns $18 per hour and works 25 hours. What is the total pay?",
+    "back": "The total pay is $450. Multiply the hourly rate by the hours worked: 18 x 25 = 450. Total pay before any deductions is the hourly rate times the hours."
+  },
+  {
+    "id": 443,
+    "domain": "geometry_and_measurement",
+    "front": "An L-shaped figure is made of a 4 cm by 6 cm rectangle and a 4 cm by 2 cm rectangle attached to its top right. What is the perimeter?",
+    "back": "The perimeter is 28 cm. Walk the outside edges: 4 (bottom) + 4 (right of the lower part) + 4 (bottom of the top part) + 2 (right edge) + 8 (full top) + 6 (left edge) = 28 cm. Add every outside side once."
+  },
+  {
+    "id": 444,
+    "domain": "data_management_and_probability",
+    "front": "A frequency table shows 5 students scored in the 80s and 7 students scored in the 90s. How many students are in the table?",
+    "back": "There are 12 students. Add the frequencies for each row: 5 + 7 = 12. A frequency table lists how many items or people fall into each category, and the total is the sum of all the frequencies."
+  },
+  {
+    "id": 445,
+    "domain": "number_sense_and_operations",
+    "front": "What is 3.6 divided by 0.9?",
+    "back": "The answer is 4. Move the decimal point one place in both numbers to clear the decimal divisor, giving 36 divided by 9. Then 36 divided by 9 = 4."
+  },
+  {
+    "id": 446,
+    "domain": "geometry_and_measurement",
+    "front": "Convert 2500 g to kilograms (kg).",
+    "back": "2500 g is 2.5 kg. There are 1000 g in 1 kg, so divide by 1000: 2500 divided by 1000 = 2.5. When moving from a smaller unit to a larger one, you divide."
+  },
+  {
+    "id": 447,
+    "domain": "data_management_and_probability",
+    "front": "In a line, Tom is 3rd from the front and 5th from the back. How many people are in the line?",
+    "back": "There are 7 people. Add the two positions and subtract 1, because Tom is counted in both: 3 + 5 = 8, then 8 minus 1 = 7. It is a counting puzzle, not a probability question."
+  },
+  {
+    "id": 448,
+    "domain": "number_sense_and_operations",
+    "front": "A price goes from $40 to $50. What is the percent increase?",
+    "back": "The percent increase is 25%. Find the increase: 50 minus 40 = 10. Divide by the original amount: 10 divided by 40 = 0.25, which equals 25%. Always divide by the original value."
+  },
+  {
+    "id": 449,
+    "domain": "geometry_and_measurement",
+    "front": "A right triangle has a hypotenuse of 13 and one leg of 5. What is the other leg?",
+    "back": "The other leg is 12. Use the Pythagorean theorem: 13 squared minus 5 squared = 169 minus 25 = 144. The square root of 144 is 12."
+  },
+  {
+    "id": 450,
+    "domain": "data_management_and_probability",
+    "front": "A spinner has 4 equal sections and 2 of them are red. What is P(red) as a percent?",
+    "back": "P(red) is 50%. The chance is favorable divided by total: 2 out of 4 = 0.5. Change the decimal to a percent by multiplying by 100, so 0.5 = 50%."
+  },
+  {
+    "id": 451,
+    "domain": "number_sense_and_operations",
+    "front": "What is 3/4 written as a decimal?",
+    "back": "The decimal is 0.75. Divide the numerator (top number) by the denominator (bottom number): 3 divided by 4 = 0.75."
+  },
+  {
+    "id": 452,
+    "domain": "geometry_and_measurement",
+    "front": "A rectangle is 8 cm long and 5 cm wide. What is its area, in square centimetres?",
+    "back": "The area is 40 square cm. Area of a rectangle = length x width = 8 x 5 = 40. Area measures the flat space inside the shape."
+  },
+  {
+    "id": 453,
+    "domain": "number_sense_and_operations",
+    "front": "What is 25% of 80?",
+    "back": "The answer is 20. Write 25% as 0.25, then multiply: 0.25 x 80 = 20."
+  },
+  {
+    "id": 454,
+    "domain": "geometry_and_measurement",
+    "front": "A rectangle is 8 cm long and 5 cm wide. What is its perimeter?",
+    "back": "The perimeter is 26 cm. Perimeter = 2 x (length + width) = 2 x (8 + 5) = 2 x 13 = 26. It is the total distance around the rectangle."
+  },
+  {
+    "id": 455,
+    "domain": "number_sense_and_operations",
+    "front": "Simplify 5 + 3 x 2 using the order of operations.",
+    "back": "The answer is 11. Do the multiplication first: 3 x 2 = 6, then add the 5: 5 + 6 = 11. Remember BEDMAS, multiply and divide before you add and subtract."
+  },
+  {
+    "id": 456,
+    "domain": "geometry_and_measurement",
+    "front": "A triangle has a base of 10 cm and a height of 6 cm. What is its area?",
+    "back": "The area is 30 square cm. Area of a triangle = (1/2) x base x height = (1/2) x 10 x 6 = 30."
+  },
+  {
+    "id": 457,
+    "domain": "number_sense_and_operations",
+    "front": "Write 0.6 as a fraction in lowest terms.",
+    "back": "The fraction is 3/5. Write 0.6 as 6/10, then divide the top and bottom by 2: 6 divided by 2 = 3 and 10 divided by 2 = 5."
+  },
+  {
+    "id": 458,
+    "domain": "geometry_and_measurement",
+    "front": "A square has a side length of 7 m. What is its perimeter?",
+    "back": "The perimeter is 28 m. A square has 4 equal sides, so perimeter = 4 x side = 4 x 7 = 28."
+  },
+  {
+    "id": 459,
+    "domain": "number_sense_and_operations",
+    "front": "Write 3/5 as a percent.",
+    "back": "It is 60%. Divide the numerator by the denominator to get a decimal (3 divided by 5 = 0.6), then multiply by 100: 0.6 x 100 = 60%."
+  },
+  {
+    "id": 460,
+    "domain": "geometry_and_measurement",
+    "front": "A right triangle has legs of 3 cm and 4 cm. What is the length of the hypotenuse?",
+    "back": "The hypotenuse is 5 cm. Use the Pythagorean theorem: a squared plus b squared = c squared. So 3 squared + 4 squared = 9 + 16 = 25, and the square root of 25 = 5."
+  },
+  {
+    "id": 461,
+    "domain": "number_sense_and_operations",
+    "front": "Round 456.782 to the nearest tenth.",
+    "back": "It rounds to 456.8. The tenths digit is 7 (the first digit after the decimal). Look at the next digit, 8, which is 5 or more, so the 7 rounds up to 8."
+  },
+  {
+    "id": 462,
+    "domain": "geometry_and_measurement",
+    "front": "A circle has a radius of 5 cm. What is its area? Use pi = 3.14.",
+    "back": "The area is 78.5 square cm. Area of a circle = pi x radius squared = 3.14 x 5 squared = 3.14 x 25 = 78.5."
+  },
+  {
+    "id": 463,
+    "domain": "number_sense_and_operations",
+    "front": "Add: 2/3 + 1/6.",
+    "back": "The sum is 5/6. Make the denominators the same. The lowest common denominator is 6, so rewrite 2/3 as 4/6. Then add the numerators: 4/6 + 1/6 = 5/6."
+  },
+  {
+    "id": 464,
+    "domain": "geometry_and_measurement",
+    "front": "A circle has a diameter of 10 cm. What is its circumference? Use pi = 3.14.",
+    "back": "The circumference is 31.4 cm. Circumference of a circle = pi x diameter = 3.14 x 10 = 31.4."
+  },
+  {
+    "id": 465,
+    "domain": "number_sense_and_operations",
+    "front": "Multiply: 2/3 x 3/4.",
+    "back": "The product is 1/2. Multiply the numerators (2 x 3 = 6) and the denominators (3 x 4 = 12) to get 6/12. Then divide the top and bottom by 6 to get 1/2."
+  },
+  {
+    "id": 466,
+    "domain": "geometry_and_measurement",
+    "front": "A rectangular box is 4 cm long, 3 cm wide, and 2 cm high. What is its volume?",
+    "back": "The volume is 24 cubic cm. Volume = length x width x height = 4 x 3 x 2 = 24. Volume measures the space inside a 3D shape."
+  },
+  {
+    "id": 467,
+    "domain": "number_sense_and_operations",
+    "front": "A jacket costs $80 and is 25% off. What is the sale price?",
+    "back": "The sale price is $60. The discount is 25% of $80, so 0.25 x 80 = $20. Subtract the discount from the original price: 80 minus 20 = $60."
+  },
+  {
+    "id": 468,
+    "domain": "geometry_and_measurement",
+    "front": "A triangle has a base of 12 cm and an area of 36 square cm. What is its height?",
+    "back": "The height is 6 cm. Area = (1/2) x base x height, so 36 = (1/2) x 12 x height = 6 x height. Divide 36 by 6 to get height = 6."
+  },
+  {
+    "id": 469,
+    "domain": "number_sense_and_operations",
+    "front": "Solve for x: x + 7 = 15.",
+    "back": "x = 8. Subtract 7 from both sides of the equation to undo the addition: x = 15 minus 7 = 8."
+  },
+  {
+    "id": 470,
+    "domain": "geometry_and_measurement",
+    "front": "How many millilitres are in 2.5 litres?",
+    "back": "There are 2500 millilitres. There are 1000 millilitres in 1 litre, so multiply: 2.5 x 1000 = 2500."
+  },
+  {
+    "id": 471,
+    "domain": "number_sense_and_operations",
+    "front": "Solve for x: 3x - 4 = 11.",
+    "back": "x = 5. Add 4 to both sides to get 3x = 15, then divide both sides by 3: x = 15 divided by 3 = 5."
+  },
+  {
+    "id": 472,
+    "domain": "geometry_and_measurement",
+    "front": "What is the volume of a cube with a side length of 3 cm?",
+    "back": "The volume is 27 cubic cm. Volume of a cube = side x side x side = 3 x 3 x 3 = 27."
+  },
+  {
+    "id": 473,
+    "domain": "number_sense_and_operations",
+    "front": "Four pens cost $6. What is the unit price for one pen?",
+    "back": "The unit price is $1.50. Divide the total cost by the number of items: 6 divided by 4 = 1.5, which is $1.50."
+  },
+  {
+    "id": 474,
+    "domain": "geometry_and_measurement",
+    "front": "What is the surface area of a cube with a side length of 3 cm?",
+    "back": "The surface area is 54 square cm. A cube has 6 identical square faces. Each face is 3 x 3 = 9 square cm, so 6 x 9 = 54."
+  },
+  {
+    "id": 475,
+    "domain": "number_sense_and_operations",
+    "front": "Solve for x: x divided by 5 = 8.",
+    "back": "x = 40. Multiply both sides by 5 to undo the division: x = 8 x 5 = 40."
+  },
+  {
+    "id": 476,
+    "domain": "geometry_and_measurement",
+    "front": "A model is built at a scale of 1 to 50. The real object is 5 m long. How long is the model?",
+    "back": "The model is 10 cm long. Convert the real length to centimetres (5 m = 500 cm). At a 1 to 50 scale, divide by 50: 500 divided by 50 = 10."
+  },
+  {
+    "id": 477,
+    "domain": "number_sense_and_operations",
+    "front": "Convert 2.5 kilograms to grams.",
+    "back": "It is 2500 grams. There are 1000 grams in 1 kilogram, so multiply: 2.5 x 1000 = 2500."
+  },
+  {
+    "id": 478,
+    "domain": "geometry_and_measurement",
+    "front": "A triangle has sides 3, 4, and 5. A similar triangle has sides 6, 8, and 10. What is the scale factor?",
+    "back": "The scale factor is 2. Each side of the larger triangle is 2 times the matching side of the smaller one (6 divided by 3 = 2, 8 divided by 4 = 2, 10 divided by 5 = 2)."
+  },
+  {
+    "id": 479,
+    "domain": "number_sense_and_operations",
+    "front": "What is the simple interest on $500 at 6% per year for 2 years?",
+    "back": "The interest is $60. Simple interest = principal x rate x time = 500 x 0.06 x 2 = 60. First 500 x 0.06 = 30, then 30 x 2 = 60."
+  },
+  {
+    "id": 480,
+    "domain": "geometry_and_measurement",
+    "front": "A right triangle has a hypotenuse of 13 cm and one leg of 5 cm. What is the other leg?",
+    "back": "The other leg is 12 cm. Use the Pythagorean theorem: c squared minus a squared = b squared. So 13 squared minus 5 squared = 169 - 25 = 144, and the square root of 144 = 12."
+  },
+  {
+    "id": 481,
+    "domain": "number_sense_and_operations",
+    "front": "On a map, 1 cm represents 5 km. Two towns are 8 cm apart on the map. What is the real distance?",
+    "back": "The real distance is 40 km. For every 1 cm on the map there are 5 km in real life, so multiply: 8 x 5 = 40 km."
+  },
+  {
+    "id": 482,
+    "domain": "geometry_and_measurement",
+    "front": "A trapezoid has bases of 6 cm and 10 cm and a height of 4 cm. What is its area?",
+    "back": "The area is 32 square cm. Area of a trapezoid = (1/2) x (base 1 + base 2) x height = (1/2) x (6 + 10) x 4 = (1/2) x 16 x 4 = 32."
+  },
+  {
+    "id": 483,
+    "domain": "number_sense_and_operations",
+    "front": "A car travels 240 km in 3 hours. What is its average speed?",
+    "back": "The average speed is 80 km per hour. Speed equals distance divided by time: 240 divided by 3 = 80."
+  },
+  {
+    "id": 484,
+    "domain": "geometry_and_measurement",
+    "front": "A parallelogram has a base of 8 cm and a height of 5 cm. What is its area?",
+    "back": "The area is 40 square cm. Area of a parallelogram = base x height = 8 x 5 = 40. The height is the perpendicular distance from base to top, not the slanted side."
+  },
+  {
+    "id": 485,
+    "domain": "number_sense_and_operations",
+    "front": "Write 0.75 as a percent.",
+    "back": "It is 75%. Multiply the decimal by 100 to get a percent: 0.75 x 100 = 75%."
+  },
+  {
+    "id": 486,
+    "domain": "geometry_and_measurement",
+    "front": "A cylinder has a radius of 3 cm and a height of 4 cm. What is its volume? Use pi = 3.14.",
+    "back": "The volume is 113.04 cubic cm. Volume of a cylinder = pi x radius squared x height = 3.14 x 3 squared x 4 = 3.14 x 9 x 4 = 3.14 x 36 = 113.04."
+  },
+  {
+    "id": 487,
+    "domain": "number_sense_and_operations",
+    "front": "Simplify 10 - 8 divided by 4 using the order of operations.",
+    "back": "The answer is 8. Do the division first: 8 divided by 4 = 2. Then subtract: 10 minus 2 = 8."
+  },
+  {
+    "id": 488,
+    "domain": "geometry_and_measurement",
+    "front": "A shape is a rectangle 6 cm by 4 cm with a triangle on top that has a base of 6 cm and a height of 3 cm. What is the total area?",
+    "back": "The total area is 33 square cm. The rectangle is 6 x 4 = 24. The triangle is (1/2) x 6 x 3 = 9. Add them: 24 + 9 = 33."
+  },
+  {
+    "id": 489,
+    "domain": "number_sense_and_operations",
+    "front": "What is 2/3 of 60?",
+    "back": "It is 40. Multiply 60 by 2/3: (60 x 2) divided by 3 = 120 divided by 3 = 40."
+  },
+  {
+    "id": 490,
+    "domain": "geometry_and_measurement",
+    "front": "A rectangular prism is 4 cm long, 3 cm wide, and 2 cm high. What is its surface area?",
+    "back": "The surface area is 52 square cm. Surface area = 2 x (length x width + length x height + width x height) = 2 x (12 + 8 + 6) = 2 x 26 = 52."
+  },
+  {
+    "id": 491,
+    "domain": "number_sense_and_operations",
+    "front": "Solve for a: 5a + 12 = 22.",
+    "back": "a = 2. Subtract 12 from both sides to get 5a = 10, then divide both sides by 5: a = 10 divided by 5 = 2."
+  },
+  {
+    "id": 492,
+    "domain": "geometry_and_measurement",
+    "front": "Convert 3.5 metres to centimetres.",
+    "back": "It is 350 centimetres. There are 100 centimetres in 1 metre, so multiply: 3.5 x 100 = 350."
+  },
+  {
+    "id": 493,
+    "domain": "number_sense_and_operations",
+    "front": "A shirt costs $24 and is on sale at 15% off. What is the discount amount?",
+    "back": "The discount is $3.60. Multiply the original price by the percent as a decimal: 0.15 x 24 = 3.6, which is $3.60."
+  },
+  {
+    "id": 494,
+    "domain": "geometry_and_measurement",
+    "front": "A circle has a radius of 4 cm. What is its circumference? Use pi = 3.14.",
+    "back": "The circumference is 25.12 cm. Circumference of a circle = 2 x pi x radius = 2 x 3.14 x 4 = 25.12."
+  },
+  {
+    "id": 495,
+    "domain": "number_sense_and_operations",
+    "front": "Write 3/8 as a decimal.",
+    "back": "It is 0.375. Divide the numerator by the denominator: 3 divided by 8 = 0.375."
+  },
+  {
+    "id": 496,
+    "domain": "geometry_and_measurement",
+    "front": "A right triangle has legs of 3 cm and 4 cm. What is its perimeter?",
+    "back": "The perimeter is 12 cm. Find the hypotenuse with the Pythagorean theorem: 3 squared + 4 squared = 25, and the square root of 25 = 5. Then add all three sides: 3 + 4 + 5 = 12."
+  },
+  {
+    "id": 497,
+    "domain": "number_sense_and_operations",
+    "front": "A recipe uses 3 cups of flour for 4 servings. How many cups are needed for 12 servings?",
+    "back": "You need 9 cups. Twelve servings is 3 times 4 servings, so multiply the flour by the same amount: 3 x 3 = 9 cups."
+  },
+  {
+    "id": 498,
+    "domain": "geometry_and_measurement",
+    "front": "Convert 2500 grams to kilograms.",
+    "back": "It is 2.5 kilograms. There are 1000 grams in 1 kilogram, so divide by 1000: 2500 divided by 1000 = 2.5."
+  },
+  {
+    "id": 499,
+    "domain": "number_sense_and_operations",
+    "front": "Add: -6 + 9.",
+    "back": "The sum is 3. Start at -6 on a number line and move 9 places up, which brings you to 3. It is the same as 9 minus 6 = 3."
+  },
+  {
+    "id": 500,
+    "domain": "geometry_and_measurement",
+    "front": "A square has a side length of 9 cm. What is its area?",
+    "back": "The area is 81 square cm. Area of a square = side x side = 9 x 9 = 81."
+  }
+]
